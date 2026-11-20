@@ -1,0 +1,493 @@
+{
+  "images": 18,
+  "distinctQuestionVariants": 17,
+  "uniqueNewQuestions": 14,
+  "duplicateImages": 4,
+  "questions": [
+    {
+      "id": 3,
+      "stem": "Căn cứ vào phạm vi tác động của quyền lực nhà nước, chức năng của nhà nước xã hội chủ nghĩa được chia thành những chức năng nào?",
+      "options": [
+        "Chức năng kinh tế và chức năng chính trị",
+        "Chức năng văn hóa và chức năng xã hội",
+        "Chức năng trấn áp và chức năng tổ chức",
+        "Chức năng đối nội và chức năng đối ngoại"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Thuộc cách phân loại theo lĩnh vực tác động, không phải phạm vi.",
+        "Thuộc cách phân loại theo lĩnh vực tác động, không phải phạm vi.",
+        "Thuộc cách phân loại theo tính chất quyền lực.",
+        "Đúng: đối nội và đối ngoại là hai chức năng theo phạm vi tác động."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Sách chia chức năng nhà nước theo ba căn cứ khác nhau: phạm vi tác động → đối nội và đối ngoại; lĩnh vực tác động → chính trị, kinh tế, văn hóa, xã hội; tính chất của quyền lực → giai cấp (trấn áp) và xã hội (tổ chức, xây dựng). Đề hỏi phạm vi nên chọn D.",
+      "trick": "Phạm vi → trong/ngoài; lĩnh vực → chính trị, kinh tế, văn hóa, xã hội; tính chất → trấn áp/tổ chức.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 144–145 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q03.png"
+    },
+    {
+      "id": 7,
+      "stem": "Đánh giá sau được trích trong tác phẩm nào: “tác phẩm chủ yếu và cơ bản ấy trình bày chủ nghĩa xã hội khoa học... những yếu tố từ đó nảy sinh ra chế độ tương lai”?",
+      "options": [
+        "Chống Đuyring",
+        "Đường Kách mệnh",
+        "Tuyên ngôn của Đảng Cộng sản",
+        "Tư bản"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Sách giới thiệu ba phần của Chống Đuyrinh ngay sau đó; đây không phải tác phẩm được câu đánh giá nhắc tới.",
+        "Không phải tác phẩm được sách gắn với đánh giá này.",
+        "Không phải tác phẩm được sách gắn với đánh giá này.",
+        "Đúng với ý hỏi về tác phẩm được Lênin đánh giá: bộ Tư bản."
+      ],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Trang 12 giới thiệu đây là đánh giá của V.I. Lênin về bộ Tư bản; trang 23 nhắc lại đánh giá ấy. Trong bốn lựa chọn, D là tác phẩm được đánh giá. Tuy nhiên, cách hỏi “được trích trong tác phẩm nào” chưa chính xác: câu nhận xét là của Lênin về Tư bản, không có nghĩa Mác viết câu tự nhận xét ấy trong Tư bản. Chú thích trang 12 dẫn V.I. Lênin: Toàn tập, tập 1, trang 226.",
+      "trick": "“Tác phẩm chủ yếu và cơ bản… trình bày CNXH khoa học” → Lênin đánh giá bộ Tư bản.",
+      "caution": "Đáp án D chỉ tác phẩm được nhận xét. Câu chữ “trích trong” trên ảnh dễ làm nhầm tác phẩm được nhận xét với nguồn của lời nhận xét.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 12, 23 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q07.png"
+    },
+    {
+      "id": 17,
+      "stem": "Theo quan điểm của chủ nghĩa Mác - Lênin, từ chủ nghĩa tư bản lên chủ nghĩa xã hội tất yếu phải trải qua thời kỳ gì?",
+      "options": [
+        "Phát triển của loài người",
+        "Phát triển lực lượng sản xuất và quan hệ sản xuất",
+        "Quá độ chính trị",
+        "Thay đổi phương thức sản xuất"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Diễn đạt quá rộng, không phải tên thời kỳ được nêu.",
+        "Nêu các nội dung biến đổi, không phải tên thời kỳ được hỏi.",
+        "Đúng: khớp luận điểm trực tiếp ở trang 104.",
+        "Nêu sự thay đổi chung, không phải tên thời kỳ trong đoạn sách."
+      ],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Mục Tính tất yếu khách quan của thời kỳ quá độ lên chủ nghĩa xã hội nêu trực tiếp: từ chủ nghĩa tư bản lên chủ nghĩa xã hội tất yếu phải trải qua thời kỳ quá độ chính trị. C khớp thuật ngữ được sách sử dụng.",
+      "trick": "Hỏi tên thời kỳ giữa hai chế độ → quá độ chính trị.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 104 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q17.png"
+    },
+    {
+      "id": 22,
+      "stem": "“Kiện toàn tổ chức, đổi mới phương thức và nâng cao hiệu quả hoạt động của Quốc hội để đảm bảo đây là cơ quan...” Từ nào còn thiếu trong câu trên?",
+      "options": [
+        "Quyền lực của nhân dân",
+        "Quyền lực cao nhất của nhà nước",
+        "Quyền lực cao nhất của nhân dân",
+        "Quyền lực cao nhất của giai cấp"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Thiếu cụm cao nhất so với nguyên văn cần điền.",
+        "Dễ nhầm với câu tiếp theo về cơ quan quyền lực nhà nước cao nhất; không phải phần còn thiếu của câu trích này.",
+        "Đúng: đúng nguyên văn phần còn thiếu ở trang 162.",
+        "Không phải phần còn thiếu trong nguồn."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Đây là bài điền đúng câu trích. Ở trang 162, sau cụm “để đảm bảo đây là cơ quan”, sách viết “quyền lực cao nhất của nhân dân”, nên chọn C. Ngay câu tiếp theo, sách mới viết “Quốc hội là cơ quan quyền lực nhà nước cao nhất ở nước ta”. Hai cách diễn đạt xuất hiện cạnh nhau; B phù hợp với ý của câu tiếp theo nhưng không điền đúng câu đang trích.",
+      "trick": "Điền đúng câu “Kiện toàn tổ chức…” → cao nhất của nhân dân (C). Đọc nguyên câu, đừng chọn theo câu kế tiếp.",
+      "caution": "Chọn C theo câu trích cụ thể của giáo trình. Không suy ra từ đây rằng cách mô tả Quốc hội là cơ quan quyền lực nhà nước cao nhất là sai.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 162 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q22.png"
+    },
+    {
+      "id": 27,
+      "stem": "Với tư cách là một hình thái nhà nước, nền dân chủ nào là nền dân chủ của tất cả mọi người?",
+      "options": [
+        "Dân chủ chủ nô",
+        "Dân chủ tư sản",
+        "Dân chủ xã hội chủ nghĩa",
+        "Không có bất cứ nền dân chủ nào là của tất cả mọi người"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Theo sách, dân chủ chủ nô phục vụ giai cấp chủ nô.",
+        "Theo sách, dân chủ tư sản mang bản chất giai cấp tư sản.",
+        "Theo sách, dân chủ XHCN vì lợi ích đa số nhân dân lao động, không đồng nghĩa cho tất cả mọi người.",
+        "Đúng trong hệ khái niệm và điều kiện phân loại mà câu hỏi sử dụng."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Theo cách tiếp cận của giáo trình, dân chủ với tư cách hình thức tổ chức nhà nước có tính giai cấp. Trang 135 còn nhấn mạnh dân chủ vô sản cũng không phải dân chủ cho tất cả mọi người, mà vì lợi ích của đa số quần chúng lao động và bị bóc lột. Vì vậy đáp án D phù hợp với điều kiện “với tư cách là một hình thái nhà nước”.",
+      "trick": "Có điều kiện “hình thái nhà nước” → tính giai cấp → không có dân chủ cho tất cả mọi người.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 131–132, 135 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q27.png"
+    },
+    {
+      "id": 33,
+      "stem": "Đâu không phải là một trong những loại của cơ cấu xã hội?",
+      "options": [
+        "Cơ cấu xã hội - giai cấp",
+        "Cơ cấu xã hội - nghề nghiệp",
+        "Cơ cấu xã hội - hạ tầng",
+        "Cơ cấu xã hội - tôn giáo"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Là một loại cơ cấu xã hội được sách nêu.",
+        "Là một loại cơ cấu xã hội được sách nêu.",
+        "Đúng theo yêu cầu phủ định: không phải loại trong cách phân loại này.",
+        "Là một loại cơ cấu xã hội được sách nêu."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Trang 166 liệt kê các loại cơ cấu xã hội như dân cư, nghề nghiệp, giai cấp, dân tộc, tôn giáo. A, B, D là các loại được nêu. C không thuộc cách phân loại này; không nhầm cơ cấu xã hội với khái niệm cơ sở hạ tầng.",
+      "trick": "Cơ cấu xã hội phân theo cộng đồng, nhóm người; “hạ tầng” là phương án lạc nhóm.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 166 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q33.png"
+    },
+    {
+      "id": 34,
+      "stem": "Trong các nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, nội dung nào là cơ bản quyết định nhất?",
+      "options": [
+        "Chính trị",
+        "Kinh tế",
+        "Tư tưởng",
+        "Văn hóa - xã hội"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Chính trị quan trọng nhưng không được gọi là nội dung cơ bản quyết định nhất ở mục này.",
+        "Đúng: khớp câu mở đầu mục nội dung kinh tế.",
+        "Không phải nội dung được gắn với cụm từ đang hỏi.",
+        "Không phải nội dung được gắn với cụm từ đang hỏi."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Mục Nội dung kinh tế của liên minh mở đầu bằng nhận định đây là nội dung cơ bản quyết định nhất, là cơ sở vật chất - kỹ thuật của liên minh. B đúng. Đây là biến thể diễn đạt của câu 6 nhóm ảnh 01, cùng kiểm tra vai trò quyết định của kinh tế đối với liên minh, nên lưu ảnh đối chiếu mà không cộng thêm một câu vào ngân hàng.",
+      "trick": "Liên minh: nội dung cơ bản quyết định nhất → kinh tế.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 183 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q34.png",
+      "duplicateOf": {
+        "examId": "mln131_01",
+        "id": 6,
+        "reason": "Biến thể cùng nội dung kinh tế giữ vai trò quyết định của liên minh; không cộng thêm câu."
+      }
+    },
+    {
+      "id": 35,
+      "stem": "Trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay, giai cấp, tầng lớp nào đang đóng góp tích cực vào việc thực hiện chiến lược phát triển kinh tế - xã hội, tạo việc làm cho người lao động?",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp nông dân",
+        "Tầng lớp trí thức",
+        "Tầng lớp doanh nhân"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Có vai trò lớn trong sản xuất, nhưng không phải chủ thể của đoạn mô tả đang được trích.",
+        "Không phải chủ thể được đoạn sách này nhắc trực tiếp.",
+        "Sách nhấn mạnh vai trò tri thức và khoa học - công nghệ ở phần khác; không phải đoạn mô tả này.",
+        "Đúng: các đóng góp nêu trong câu được trình bày tại mục đội ngũ doanh nhân."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Đoạn về đội ngũ doanh nhân ở trang 181 nêu đóng góp vào chiến lược phát triển kinh tế - xã hội, giải quyết việc làm và các vấn đề an sinh xã hội. D là nhóm được đoạn mô tả nhắc trực tiếp. Không suy ra rằng các nhóm khác không góp phần tạo việc làm.",
+      "trick": "Mô tả đội ngũ gắn với phát triển kinh tế, giải quyết việc làm, an sinh → doanh nhân.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 181 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q35.png"
+    },
+    {
+      "id": 36,
+      "stem": "Làm sao để xóa bỏ triệt để, ngay lập tức các giai cấp, tầng lớp của cơ cấu xã hội - giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+      "options": [
+        "Giai cấp công nhân, liên minh cùng với các giai cấp, tầng lớp khác tổ chức nhà nước và thực hiện công cụ chuyên chính vô sản thực thi xóa bỏ ngay lập tức giai cấp tư sản, và sau đó xóa bỏ luôn giai cấp mình",
+        "Các giai cấp, tầng lớp chủ động đứng vào hàng ngũ của Đảng Cộng sản để thống nhất xóa bỏ sự tồn tại của giai cấp",
+        "Sự tồn tại các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội là vấn đề mang tính quy luật, chỉ có thể cải tạo dần chứ chưa thể xóa bỏ triệt để, ngay lập tức được",
+        "Quốc hữu hóa tất cả tài sản, tịch thu ruộng đất, gia sản của giai cấp tư sản, đồng thời biến họ trở thành nhân dân lao động"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Trái với sự tồn tại có tính quy luật và quá trình biến đổi lâu dài được sách mô tả.",
+        "Tư cách đảng viên không tự xóa bỏ các quan hệ kinh tế - xã hội cấu thành giai cấp.",
+        "Đúng: phản bác yêu cầu xóa bỏ ngay lập tức, phù hợp với quy luật và quá trình cải biến lâu dài.",
+        "Không thể suy ra từ các biện pháp sở hữu rằng cơ cấu giai cấp bị xóa bỏ triệt để ngay lập tức."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Câu hỏi đặt một tiền đề không đúng: có thể xóa bỏ toàn bộ giai cấp, tầng lớp ngay lập tức. Sách xác định sự đan xen cũ - mới, kinh tế nhiều thành phần và sự tồn tại nhiều giai cấp, tầng lớp là có tính quy luật. Sự xích lại gần nhau, từng bước xóa bỏ bóc lột và bất bình đẳng là một quá trình lâu dài qua các cải biến toàn diện. Vì vậy C phù hợp; các biện pháp hành chính tức thời ở A, B, D không thay thế được quá trình này.",
+      "trick": "Thấy “triệt để, ngay lập tức” → kiểm tra tiền đề; quá độ là quá trình cải biến lâu dài.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 171–172 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q36.png"
+    },
+    {
+      "id": 37,
+      "stem": "Đâu là truyền thống quý báu của các dân tộc ở Việt Nam góp phần quyết định mọi thắng lợi của dân tộc trong các giai đoạn lịch sử?",
+      "options": [
+        "Chống giặc ngoại xâm",
+        "Đoàn kết dân tộc",
+        "Tinh thần học tập không ngừng",
+        "Hiếu thảo với ông bà cha mẹ"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Là một truyền thống quan trọng, nhưng không phải tên truyền thống được đoạn sách gắn với cụm mô tả này.",
+        "Đúng: khớp đặc điểm thứ năm ở trang 208.",
+        "Không phải nội dung của đoạn sách đang hỏi.",
+        "Không phải nội dung của đoạn sách đang hỏi."
+      ],
+      "topic": "Dân tộc",
+      "detail": "Trong đặc điểm thứ năm của các dân tộc Việt Nam, sách xác định đoàn kết dân tộc là truyền thống quý báu, một trong những nguyên nhân và động lực quyết định mọi thắng lợi qua các giai đoạn lịch sử. B khớp nội dung này; sách không xem đây là nguyên nhân duy nhất.",
+      "trick": "Truyền thống quý báu, động lực quyết định thắng lợi → đoàn kết dân tộc.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 208 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q37.png"
+    },
+    {
+      "id": 40,
+      "stem": "Vấn đề chiến lược, cơ bản, lâu dài và cấp bách trong việc giải quyết mối quan hệ dân tộc và tôn giáo ở Việt Nam hiện nay là gì?",
+      "options": [
+        "Đảm bảo sự lãnh đạo của Đảng Cộng sản Việt Nam, tuân thủ nguyên tắc, lập trường chính trị của giai cấp công nhân",
+        "Đảm bảo các tôn giáo, dân tộc chuyển biến tích cực",
+        "Đảm bảo hài hòa lợi ích, giảm thiểu tới mức tối đa mâu thuẫn lợi ích, nhất là mâu thuẫn lợi ích kinh tế",
+        "Củng cố mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải nội dung được gắn trực tiếp với cụm mô tả này.",
+        "Quá chung, không nêu nội dung đoàn kết được hỏi.",
+        "Không khớp luận điểm ở trang 233.",
+        "Đúng: khớp luận điểm của sách."
+      ],
+      "topic": "Dân tộc và tôn giáo",
+      "detail": "D khớp nội dung sách về tăng cường quan hệ tốt đẹp và củng cố đoàn kết dân tộc, tôn giáo. Câu này trùng câu 50 nhóm ảnh 04; giữ ảnh trong danh mục nguồn, không cộng thêm một câu mới.",
+      "trick": "Chiến lược, cơ bản, lâu dài, cấp bách → đoàn kết dân tộc và tôn giáo.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 233 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q40.png",
+      "duplicateOf": {
+        "examId": "mln131_04",
+        "id": 50,
+        "reason": "Trùng câu hỏi và phương án."
+      }
+    },
+    {
+      "id": 56,
+      "stem": "“Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp, kiểm soát giữa các cơ quan nhà nước trong việc thực hiện các quyền lập pháp, hành pháp, tư pháp” được đề cập tại Đại hội lần thứ bao nhiêu của Đảng?",
+      "options": [
+        "X",
+        "XI",
+        "XII",
+        "XIII"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải đại hội mà trang 157 gắn với câu trích này.",
+        "Đây là đáp án của bình luận trong ảnh; không khớp đoạn và chú thích của giáo trình đã gửi.",
+        "Đúng theo giáo trình đang dùng: cả nội dung và chú thích đều ghi XII.",
+        "Đoạn sau của sách gắn XIII với cách diễn đạt “phân công rành mạch, phối hợp chặt chẽ và tăng cường kiểm soát”."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Theo đúng giáo trình đã gửi, trang 157 ghi Đại hội XII trước câu trích này, và chú thích 1 dẫn Văn kiện Đại hội XII, trang 171. Bình luận bên phải ảnh chọn B - XI và lập luận về lần đầu xác lập; đây là thông tin khác nguồn, chưa được giáo trình đang dùng xác nhận. Đề trên ảnh chỉ hỏi “được đề cập”, không có chữ “lần đầu”. Bản ôn giữ C theo giáo trình và hiển thị rõ khác biệt, không kết luận về đại hội đầu tiên trong lịch sử.",
+      "trick": "Theo sách trang 157: câu trích → XII; không đổi câu hỏi “được đề cập” thành “lần đầu”.",
+      "caution": "Khác nguồn: bình luận trong ảnh chọn B (XI), giáo trình trang 157 ghi XII. Chấm C theo phạm vi nguồn đã thống nhất; chưa dùng bình luận để kết luận về lần đầu xác lập.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 157 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q56.png",
+      "duplicateOf": {
+        "examId": "mln131_01",
+        "id": 13,
+        "reason": "Trùng câu hỏi; bổ sung ghi chú khác nguồn vào câu đã có."
+      }
+    },
+    {
+      "id": 53,
+      "stem": "Để các nước đang trong thời kỳ quá độ lên chủ nghĩa xã hội xây dựng được cơ sở kinh tế vững mạnh, chế độ chính trị xã hội ngày càng được củng cố vững chắc thì cần phải có sự liên minh của những lực lượng nào?",
+      "options": [
+        "Giai cấp công nhân, giai cấp nông dân, tầng lớp nhân dân lao động khác",
+        "Giai cấp nông nhân, giai cấp tư sản, chính quyền",
+        "Giai cấp nông nhân, đội ngũ trí thức, đội ngũ doanh nghiệp",
+        "Giai cấp công nhân, đội ngũ trí thức, đội ngũ doanh nghiệp"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: khớp đầy đủ ba nhóm trong luận điểm của sách.",
+        "Không khớp lực lượng của liên minh mà sách xác định.",
+        "Thiếu công nhân; cũng không khớp cách gọi các nhóm trong nguồn.",
+        "Thiếu nông dân nên không đủ các lực lượng của liên minh được hỏi."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Trang 175 nêu thực hiện tốt liên minh giữa công nhân với nông dân và các tầng lớp nhân dân lao động khác, trước hết là trí thức, sẽ vừa xây dựng cơ sở kinh tế vững mạnh vừa củng cố chế độ chính trị xã hội chủ nghĩa. A phù hợp; trí thức được bao hàm trong các tầng lớp nhân dân lao động khác ở cách trả lời này.",
+      "trick": "Liên minh: công nhân + nông dân + các tầng lớp lao động khác, trước hết là trí thức.",
+      "caution": "Các phương án B, C giữ lỗi chữ “nông nhân”, C, D giữ “đội ngũ doanh nghiệp” như ảnh; không dùng các lỗi chữ này làm căn cứ duy nhất để chọn đáp án.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 175 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q53.png"
+    },
+    {
+      "id": 60,
+      "stem": "Chọn đáp án chính xác nhất điền vào chỗ trống trong câu sau: Chủ nghĩa duy vật lịch sử ra đời dựa trên cơ sở kế thừa “...” của phép biện chứng và phê phán quan điểm duy tâm, thần bí của Hêghen.",
+      "options": [
+        "Cái tổng thể và khái quát",
+        "Cái hạt nhân hợp lý",
+        "Thực tiễn khách quan",
+        "Chủ nghĩa duy vật biện chứng"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải cụm từ được sách dùng.",
+        "Đúng: điền đúng cụm từ ở trang 19.",
+        "Không phải phần còn thiếu trong câu trích.",
+        "Là khái niệm liên quan trong tiến trình lý luận, không phải cụm từ cần điền."
+      ],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Phần Ba phát kiến vĩ đại nêu Mác và Ăngghen kế thừa “cái hạt nhân hợp lý” của phép biện chứng Hêghen, phê phán quan điểm duy tâm, thần bí; đồng thời kế thừa các giá trị duy vật của Phoiơbắc, sáng lập duy vật biện chứng rồi nghiên cứu xã hội để phát triển duy vật lịch sử. B điền đúng cụm từ. Không đồng nhất hạt nhân hợp lý với toàn bộ hệ thống triết học Hêghen.",
+      "trick": "Kế thừa Hêghen → hạt nhân hợp lý của phép biện chứng; phê phán duy tâm, thần bí.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 19 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q60.png"
+    },
+    {
+      "id": 59,
+      "stem": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa là tạo ra sự biến đổi như thế nào của xã hội trên tất cả các lĩnh vực?",
+      "options": [
+        "Biến đổi về lượng",
+        "Biến đổi về chất",
+        "Khuynh hướng phát triển",
+        "Thực hiện bước nhảy"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không khớp tính chất biến đổi mà sách nêu.",
+        "Đúng: đúng luận điểm thứ tư ở trang 112.",
+        "Không trả lời cụ thể tính chất biến đổi được hỏi.",
+        "Không phải cách diễn đạt trong đoạn; không suy ra có thể bỏ qua quá trình cải biến lâu dài."
+      ],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Luận điểm thứ tư ở trang 112 nêu con đường này tạo ra sự biến đổi về chất trên tất cả các lĩnh vực, là sự nghiệp khó khăn, phức tạp, lâu dài. B khớp trực tiếp. Bỏ qua chế độ tư bản chủ nghĩa không có nghĩa bỏ qua mọi thành tựu của nhân loại dưới chủ nghĩa tư bản hay hoàn thành biến đổi ngay lập tức.",
+      "trick": "Hỏi kiểu biến đổi trên tất cả lĩnh vực → về chất; quá trình thực hiện vẫn lâu dài.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 111–112 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q59.png"
+    },
+    {
+      "id": 42,
+      "stem": "Phần lớn các tín đồ tôn giáo ở nước ta có đặc điểm chung là gì?",
+      "options": [
+        "Là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc",
+        "Là giai cấp yếu thế, có cuộc sống cơ cực, tin vào tôn giáo như một yếu tố giải thoát",
+        "Có ý thức chống lại chủ nghĩa duy vật biện chứng",
+        "Tham gia vào các phong trào đấu tranh chống chính quyền"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: đúng tiêu đề đặc điểm thứ ba ở trang 224.",
+        "Không đúng cách khái quát trong sách; tín đồ đa dạng về thành phần và không phải một giai cấp riêng.",
+        "Không thể đồng nhất có niềm tin tôn giáo với ý thức chống lại một học thuyết.",
+        "Trái với mô tả chủ đạo về tinh thần yêu nước, gắn bó dân tộc trong đoạn sách."
+      ],
+      "topic": "Tôn giáo",
+      "detail": "Đặc điểm thứ ba của tôn giáo ở Việt Nam xác định tín đồ phần lớn là nhân dân lao động, có lòng yêu nước, tinh thần dân tộc. A khớp trực tiếp. Đây là nhận xét “phần lớn”, không phải kết luận về mọi tín đồ; không coi tín đồ như một giai cấp riêng hoặc đồng nhất niềm tin tôn giáo với thái độ chính trị chống đối.",
+      "trick": "Đặc điểm thứ ba của tín đồ Việt Nam → lao động, yêu nước, tinh thần dân tộc.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 224 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q42.png"
+    },
+    {
+      "id": 43,
+      "stem": "“Do lực lượng sản xuất chưa phát triển, con người cảm thấy yếu đuối, bất lực, không giải thích được, nên con người đã gán cho tự nhiên một sức mạnh, quyền lực thần bí”, vấn đề này nói lên nguồn gốc nào của tôn giáo?",
+      "options": [
+        "Nguồn gốc tâm lý",
+        "Nguồn gốc nhận thức",
+        "Nguồn gốc tự nhiên, kinh tế - xã hội",
+        "Nguồn gốc ý chí"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Dễ nhầm vì có cảm giác bất lực; tuy nhiên đoạn được trích thuộc mục nguồn gốc tự nhiên, kinh tế - xã hội.",
+        "Dễ nhầm vì có chữ “không giải thích được”; phải đọc cả điều kiện lực lượng sản xuất và vị trí đề mục.",
+        "Đúng: là tên mục chứa đoạn trích ở trang 216.",
+        "Không phải nhóm nguồn gốc được giáo trình phân loại trong đoạn này."
+      ],
+      "topic": "Tôn giáo",
+      "detail": "Đoạn này nằm trực tiếp dưới đề mục Nguồn gốc tự nhiên, kinh tế - xã hội ở trang 216: lực lượng sản xuất chưa phát triển, con người yếu đuối trước tự nhiên nên gán cho tự nhiên sức mạnh thần bí. C đúng theo vị trí và nội dung của đoạn. Cụm “không giải thích được” dễ gợi B, nhưng không được tách một cụm khỏi bối cảnh lực lượng sản xuất và sự lệ thuộc tự nhiên.",
+      "trick": "Lực lượng sản xuất thấp + bất lực trước tự nhiên → nguồn gốc tự nhiên, kinh tế - xã hội.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 216–217 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo06/q43.png"
+    }
+  ],
+  "additionalRepeatedImages": [
+    {
+      "id": 34,
+      "image": "assets/mln131/bo06/q34-repeat.png",
+      "duplicateOf": {
+        "examId": "mln131_06",
+        "id": 34
+      },
+      "reason": "Ảnh thứ hai của cùng câu 34 trong lô này."
+    }
+  ]
+}

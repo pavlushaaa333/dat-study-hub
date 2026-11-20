@@ -1,0 +1,467 @@
+{
+  "images": 16,
+  "uniqueNewQuestions": 15,
+  "duplicateImages": 1,
+  "questions": [
+    {
+      "id": 3,
+      "stem": "Đâu không phải là tiền đề khoa học tự nhiên cho sự ra đời của chủ nghĩa xã hội khoa học?",
+      "options": [
+        "Học thuyết tiến hóa",
+        "Học thuyết tế bào",
+        "Định luật bảo toàn và chuyển hóa năng lượng",
+        "Chủ nghĩa xã hội không tưởng của Pháp"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Là tiền đề khoa học tự nhiên, không chọn khi câu hỏi có chữ KHÔNG.",
+        "Là tiền đề khoa học tự nhiên, không chọn khi câu hỏi có chữ KHÔNG.",
+        "Là tiền đề khoa học tự nhiên, không chọn khi câu hỏi có chữ KHÔNG.",
+        "Đúng theo yêu cầu phủ định: thuộc tiền đề tư tưởng lý luận."
+      ],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Giáo trình xếp học thuyết tiến hóa, học thuyết tế bào, định luật bảo toàn và chuyển hóa năng lượng vào các tiền đề khoa học tự nhiên. Chủ nghĩa xã hội không tưởng Pháp thuộc tiền đề tư tưởng lý luận, nên D trả lời yêu cầu KHÔNG phải tiền đề khoa học tự nhiên.",
+      "trick": "Tự nhiên: tiến hóa – tế bào – năng lượng. Không tưởng Pháp thuộc tư tưởng lý luận.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 14–15 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q03.png"
+    },
+    {
+      "id": 5,
+      "stem": "Dựa trên phương diện chính trị - xã hội, giai cấp công nhân được hiểu như thế nào?",
+      "options": [
+        "Là những người nông dân nghèo bị bóc lột sức lao động",
+        "Là những người trí thức tham gia vào sản xuất",
+        "Là sản phẩm xã hội của quá trình phát triển tư bản chủ nghĩa",
+        "A và B đều đúng"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đồng nhất công nhân với nông dân nghèo nên không đúng định nghĩa.",
+        "Không thể đồng nhất toàn bộ giai cấp công nhân với trí thức tham gia sản xuất.",
+        "Đúng: là nội dung mở đầu mục chính trị - xã hội ở trang 54.",
+        "Sai vì cả A và B đều không phải định nghĩa được hỏi."
+      ],
+      "topic": "Giai cấp công nhân",
+      "detail": "Ngay phần Về phương diện chính trị - xã hội, sách nêu giai cấp công nhân là sản phẩm xã hội của quá trình phát triển tư bản chủ nghĩa. Đoạn tiếp theo giải thích vị trí của người lao động làm thuê, không sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động và bị bóc lột giá trị thặng dư. C là phương án phù hợp trong bốn lựa chọn.",
+      "trick": "Chính trị - xã hội trong câu này → sản phẩm xã hội của sự phát triển tư bản chủ nghĩa.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 54 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q05.png"
+    },
+    {
+      "id": 6,
+      "stem": "Học thuyết về hình thái kinh tế - xã hội do ai khởi xướng?",
+      "options": [
+        "C. Mác và V.I. Lênin",
+        "Ph. Ăngghen và V.I. Lênin",
+        "C. Mác và Ph. Ăngghen",
+        "V.I. Lênin và Chủ tịch Hồ Chí Minh"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Ghép một người khởi xướng với người bổ sung, phát triển.",
+        "Ghép một người khởi xướng với người bổ sung, phát triển.",
+        "Đúng: đúng cặp tác giả được giáo trình xác định là người khởi xướng.",
+        "Không phải cặp tác giả khởi xướng được sách nêu."
+      ],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Giáo trình nêu trực tiếp học thuyết về hình thái kinh tế - xã hội do C. Mác và Ph. Ăngghen khởi xướng, được V.I. Lênin bổ sung, phát triển và vận dụng vào thực tiễn nước Nga. Cần phân biệt người khởi xướng với người tiếp tục phát triển.",
+      "trick": "Khởi xướng: Mác – Ăngghen; bổ sung, phát triển: Lênin.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 87 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q06.png"
+    },
+    {
+      "id": 20,
+      "stem": "Hình thức dân chủ ở Việt Nam mà người dân bầu ra cơ quan quyền lực nhà nước cao nhất, ủy quyền cho họ thực hiện quyền lực của nhân dân được gọi là hình thức dân chủ gì?",
+      "options": [
+        "Hình thức dân chủ trực tiếp",
+        "Hình thức dân chủ gián tiếp",
+        "Hình thức dân chủ đại nghị",
+        "Hình thức dân chủ công khai"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Trực tiếp là nhân dân tự thực hiện quyền làm chủ, không qua chủ thể đại diện trung gian.",
+        "Đúng: khớp định nghĩa và ví dụ bầu Quốc hội ở trang 153.",
+        "Dễ gây nhầm với dân chủ đại diện; trong cặp hình thức được giáo trình phân loại ở đoạn này, tên gọi đúng là gián tiếp, không dùng đại nghị làm đáp án thay thế.",
+        "Không phải hình thức được định nghĩa trong đoạn giáo trình này."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Trong cách phân loại dân chủ trực tiếp và gián tiếp của giáo trình, hình thức nhân dân ủy quyền cho tổ chức do mình bầu ra được gọi là dân chủ gián tiếp, hay dân chủ đại diện. Sách dùng chính ví dụ nhân dân bầu ra Quốc hội để giải thích hình thức này. Vì vậy chọn B theo thuật ngữ của nguồn.",
+      "trick": "Bầu đại diện + ủy quyền → dân chủ gián tiếp (đại diện).",
+      "caution": "Chốt B theo cách gọi trực tiếp của giáo trình: dân chủ gián tiếp (dân chủ đại diện). Không đồng nhất mọi thuật ngữ liên quan đến nghị viện trong các hệ phân loại khác.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 153 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q20.png"
+    },
+    {
+      "id": 24,
+      "stem": "Nhà nước xã hội chủ nghĩa có vai trò như thế nào đối với dân chủ xã hội chủ nghĩa?",
+      "options": [
+        "Nhà nước xã hội chủ nghĩa là công cụ trấn áp dân chủ xã hội chủ nghĩa",
+        "Nhà nước xã hội chủ nghĩa trở thành công cụ quan trọng cho việc thực thi quyền làm chủ của người dân",
+        "Nhà nước xã hội chủ nghĩa là động lực, nền tảng thực hiện dân chủ xã hội chủ nghĩa",
+        "Nhà nước xã hội chủ nghĩa là cơ sở, điều kiện tiên quyết cho việc tổ chức dân chủ triệt để đối với mọi giai cấp"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Trái với vai trò bảo vệ và thực hiện dân chủ được sách nêu.",
+        "Đúng: khớp tiêu đề và nội dung mục b ở trang 148.",
+        "Không phải cách diễn đạt vai trò của nhà nước trong đoạn này; cần phân biệt chiều dân chủ là cơ sở, nền tảng của nhà nước.",
+        "Không đúng: giáo trình không xác định dân chủ triệt để đối với mọi giai cấp."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Sách phân biệt hai chiều quan hệ: dân chủ xã hội chủ nghĩa là cơ sở, nền tảng cho việc xây dựng và hoạt động của nhà nước; nhà nước xã hội chủ nghĩa trở thành công cụ quan trọng để thực thi quyền làm chủ của người dân. B đúng với chiều quan hệ câu hỏi đang yêu cầu.",
+      "trick": "Dân chủ → cơ sở, nền tảng của nhà nước; nhà nước → công cụ thực thi quyền làm chủ.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 147–148 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q24.png"
+    },
+    {
+      "id": 26,
+      "stem": "Cơ cấu xã hội - giai cấp trong thời kì quá độ lên chủ nghĩa xã hội có sự đan xen giữa cái cũ và cái mới, biểu hiện về mặt kinh tế của nó là gì?",
+      "options": [
+        "Tồn tại kết cấu kinh tế nhiều thành phần",
+        "Tồn tại nhiều giai cấp, tầng lớp đối lập với nhau",
+        "Tồn tại nhiều chủ sở hữu trong cùng một doanh nghiệp",
+        "Tồn tại nhiều hình thức liên doanh, liên kết tư bản nước ngoài"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: là biểu hiện kinh tế được sách nêu trực tiếp.",
+        "Đề cập giai cấp, tầng lớp thay vì biểu hiện về mặt kinh tế được hỏi.",
+        "Chỉ là một khả năng trong tổ chức sở hữu, không phải nội dung khái quát mà sách xác định.",
+        "Chỉ là một số hình thức kinh tế cụ thể, không khái quát đầy đủ nội dung của nguồn."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Sách xác định sự đan xen giữa các yếu tố cũ và mới trong thời kỳ quá độ biểu hiện về mặt kinh tế ở chỗ còn tồn tại kết cấu kinh tế nhiều thành phần. Kết cấu ấy dẫn đến sự đa dạng của cơ cấu xã hội - giai cấp.",
+      "trick": "Đan xen cũ – mới, hỏi về kinh tế → nhiều thành phần kinh tế.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 171 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q26.png"
+    },
+    {
+      "id": 29,
+      "stem": "Cơ sở để xác định thời đại và phân chia thời đại là gì?",
+      "options": [
+        "Hình thái kinh tế - xã hội và vị trí của một giai cấp đứng ở vị trí trung tâm",
+        "Vị trí của một giai cấp đứng ở vị trí trung tâm",
+        "Sự phát triển của lực lượng sản xuất và một quan hệ sản xuất phù hợp",
+        "Cách mạng xã hội chủ nghĩa do giai cấp công nhân lãnh đạo thành công"
+      ],
+      "correct": [],
+      "multiple": false,
+      "gradable": false,
+      "why": [],
+      "topic": "Cần đối chiếu nguồn",
+      "detail": "Ảnh lặp nội dung câu 33 của nhóm ảnh 03. Chưa có đoạn đối chiếu trực tiếp đủ để xác minh bộ đáp án theo giới hạn giáo trình hiện có; giữ trong danh mục ảnh nguồn và không tính thêm một câu mới.",
+      "trick": "Ảnh lặp câu đang chờ đối chiếu; không tính thêm vào số câu đã xác minh.",
+      "caution": "Chưa chốt đáp án; không tính điểm và không tính trùng vào ngân hàng.",
+      "reference": "Chưa đủ căn cứ trực tiếp trong giáo trình đã gửi để chốt đáp án",
+      "image": "assets/mln131/bo05/q29.png",
+      "duplicateOf": {
+        "examId": "mln131_03",
+        "id": 33
+      }
+    },
+    {
+      "id": 35,
+      "stem": "Quan hệ dân tộc và tôn giáo ở Việt Nam chịu sự chi phối mạnh mẽ bởi yếu tố nào?",
+      "options": [
+        "Yếu tố giai cấp",
+        "Yếu tố quản lý của Nhà nước",
+        "Yếu tố tín ngưỡng truyền thống",
+        "Yếu tố đại đoàn kết dân tộc"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải yếu tố được xác định trong luận điểm này.",
+        "Có liên quan đến thực tiễn quản lý, nhưng không phải đáp án của đặc điểm được hỏi.",
+        "Đúng: đúng tiêu đề và nội dung mục b ở trang 230.",
+        "Là mục tiêu, định hướng cần củng cố, không phải yếu tố được gọi là chi phối mạnh trong đoạn này."
+      ],
+      "topic": "Dân tộc và tôn giáo",
+      "detail": "Trong mục đặc điểm quan hệ dân tộc và tôn giáo ở Việt Nam, sách nêu quan hệ này chịu sự chi phối mạnh mẽ bởi tín ngưỡng truyền thống, đặc biệt các thực hành như thờ cúng tổ tiên và những người có công với dân, với nước.",
+      "trick": "Chi phối mạnh quan hệ dân tộc – tôn giáo ở Việt Nam → tín ngưỡng truyền thống.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 230 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q35.png"
+    },
+    {
+      "id": 41,
+      "stem": "Đặc trưng nào dưới đây là quan trọng nhất, là cơ sở gắn kết các bộ phận, các thành viên trong dân tộc, tạo nên tính thống nhất, ổn định, bền vững của dân tộc?",
+      "options": [
+        "Chung một vùng lãnh thổ",
+        "Chung một phương thức sinh hoạt kinh tế",
+        "Chung một ngôn ngữ làm công cụ giao tiếp",
+        "Chung một nền văn hóa và tâm lý"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Lãnh thổ là yếu tố thiêng liêng, nhưng không phải đặc trưng được sách gọi quan trọng nhất trong đoạn này.",
+        "Đúng: là đặc trưng được sách gắn trực tiếp với cơ sở gắn kết và tính bền vững.",
+        "Là đặc trưng chủ yếu của dân tộc, nhưng không khớp cụm quan trọng nhất được hỏi.",
+        "Văn hóa, tâm lý tạo bản sắc và liên kết cộng đồng, nhưng không phải đáp án của cụm mô tả này."
+      ],
+      "topic": "Dân tộc",
+      "detail": "Trong các đặc trưng dân tộc theo nghĩa rộng, sách xác định có chung một phương thức sinh hoạt kinh tế là đặc trưng quan trọng nhất, cơ sở gắn kết các bộ phận và thành viên, tạo tính thống nhất, ổn định, bền vững. Không nhầm với lãnh thổ được sách gọi là yếu tố thiêng liêng.",
+      "trick": "Quan trọng nhất, nền tảng gắn kết → sinh hoạt kinh tế chung.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 197–198 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q41.png"
+    },
+    {
+      "id": 42,
+      "stem": "Nếu thiếu đi cơ sở văn hóa, hoặc cơ sở văn hóa không đi liền với cơ sở kinh tế, chính trị thì việc xây dựng gia đình sẽ bị ảnh hưởng như thế nào?",
+      "options": [
+        "Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả",
+        "Hệ thống chính sách, pháp luật về xây dựng gia đình sẽ không thể hoàn thiện",
+        "Việc xây dựng gia đình không còn dựa trên nền tảng hệ tư tưởng chính trị",
+        "Việc xây dựng gia đình sẽ không hướng tới đời sống văn hóa, tinh thần"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: khớp kết luận mục Cơ sở văn hóa ở trang 253.",
+        "Không phải hệ quả được giáo trình nêu trong câu đang hỏi.",
+        "Không phải cách kết luận của nguồn; phương án suy rộng quá nội dung đoạn văn.",
+        "Không phải cách kết luận của nguồn."
+      ],
+      "topic": "Gia đình",
+      "detail": "Kết luận mục Cơ sở văn hóa nêu rõ thiếu cơ sở văn hóa, hoặc cơ sở văn hóa không đi liền với cơ sở kinh tế và chính trị, sẽ làm việc xây dựng gia đình lệch lạc, không đạt hiệu quả cao. A khớp nội dung này.",
+      "trick": "Thiếu cơ sở văn hóa hoặc không đồng bộ → lệch lạc, kém hiệu quả.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 253 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q42.png"
+    },
+    {
+      "id": 45,
+      "stem": "Hôn nhân một vợ một chồng xuất hiện lần đầu tiên khi nào?",
+      "options": [
+        "Khi có sự thắng lợi của chế độ tư hữu đối với chế độ công hữu nguyên thủy",
+        "Khi có sự thắng thế của chế độ tư bản đối với chế độ phong kiến",
+        "Khi các quốc gia bước vào thời kỳ quá độ lên chủ nghĩa xã hội",
+        "Khi con người xuất hiện"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: đúng mốc lịch sử được giáo trình nêu.",
+        "Muộn hơn thời điểm xuất hiện được sách xác định.",
+        "Thời kỳ quá độ liên quan đến xây dựng hôn nhân tiến bộ, bình đẳng, không phải lần đầu có một vợ một chồng.",
+        "Không phải mốc được giáo trình nêu."
+      ],
+      "topic": "Gia đình",
+      "detail": "Sách nêu hôn nhân một vợ một chồng xuất hiện từ sớm khi chế độ tư hữu thắng thế chế độ công hữu nguyên thủy. Đồng thời sách lưu ý trong các xã hội trước, chế độ ấy thực chất chỉ ràng buộc người phụ nữ; không đồng nhất sự xuất hiện sớm với mô hình vợ chồng bình đẳng trong chủ nghĩa xã hội.",
+      "trick": "Lần đầu xuất hiện → tư hữu thắng công hữu nguyên thủy; chưa có nghĩa vợ chồng đã bình đẳng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 255 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q45.png"
+    },
+    {
+      "id": 49,
+      "stem": "Câu khẳng định: “Nếu không giải phóng phụ nữ là xây dựng chủ nghĩa xã hội chỉ một nửa” là của ai?",
+      "options": [
+        "Các Mác",
+        "Ph. Ăngghen",
+        "V.I. Lênin",
+        "Hồ Chí Minh"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "C. Mác gắn với lý luận giải phóng giai cấp, giải phóng con người, nhưng không phải tác giả câu được hỏi theo giáo trình.",
+        "Ph. Ăngghen có những phân tích về gia đình, tư hữu và địa vị phụ nữ, nhưng không phải tác giả câu này.",
+        "V.I. Lênin có các luận điểm về giải phóng phụ nữ và nhà nước Xôviết, nhưng không phải tác giả câu này.",
+        "Đúng: giáo trình trang 245 ghi rõ tác giả và chú thích nguồn Hồ Chí Minh: Toàn tập."
+      ],
+      "topic": "Gia đình và giải phóng phụ nữ",
+      "detail": "Trong phần vị trí của gia đình và mối quan hệ gia đình với xã hội, giáo trình dẫn chính câu nói này và xác định tác giả là Chủ tịch Hồ Chí Minh. Chú thích ở cuối trang dẫn Hồ Chí Minh: Toàn tập, tập 13, trang 300. Vì vậy đáp án là D.",
+      "trick": "Không giải phóng phụ nữ → xây dựng CNXH chỉ một nửa → Hồ Chí Minh.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 245 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q49.png",
+      "studyNote": {
+        "title": "Ghi nhớ 4 nhà tư tưởng — theo note bên phải ảnh câu 49",
+        "columns": [
+          "Nhà tư tưởng",
+          "Nội dung ghi nhớ"
+        ],
+        "rows": [
+          [
+            "C. Mác",
+            "Giải phóng giai cấp, giải phóng con người"
+          ],
+          [
+            "Ph. Ăngghen",
+            "Nguồn gốc gia đình, chế độ tư hữu và địa vị phụ nữ"
+          ],
+          [
+            "V.I. Lênin",
+            "Vai trò của phụ nữ trong cách mạng xã hội chủ nghĩa"
+          ],
+          [
+            "Hồ Chí Minh",
+            "Không giải phóng phụ nữ thì xây dựng CNXH chỉ một nửa"
+          ]
+        ],
+        "caption": "Bảng chép theo ghi chú ở cột bình luận bên phải ảnh. Các dòng khái quát là từ khóa gợi nhớ, không phải bốn trích dẫn nguyên văn hoặc khẳng định mỗi chủ đề chỉ thuộc một tác giả. Câu nói được hỏi đã được kiểm chứng ở giáo trình trang 245; các nội dung về giải phóng phụ nữ cũng được bàn tại trang 250–252."
+      }
+    },
+    {
+      "id": 50,
+      "stem": "Những biến đổi và khác biệt của giai cấp công nhân hiện đại so với giai cấp công nhân thế kỉ XIX là gì?",
+      "options": [
+        "Xu hướng trí tuệ hóa tăng nhanh",
+        "Xu hướng trung lưu hóa gia tăng",
+        "Là giai cấp giữ vai trò lãnh đạo, cầm quyền trong quá trình xây dựng chủ nghĩa xã hội ở một số quốc gia",
+        "Xu hướng bần cùng hóa gia tăng nhanh chóng"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [
+        "Đúng: là xu hướng thứ nhất được sách trình bày tại trang 67.",
+        "Đúng: là xu hướng thứ hai được trình bày tại trang 67–68.",
+        "Đúng theo ý của mục này; nói chính xác, giai cấp công nhân lãnh đạo, Đảng Cộng sản là đội tiên phong giữ vai trò cầm quyền.",
+        "Không thuộc danh sách biến đổi được nêu; sách không từ xu hướng trung lưu hóa mà phủ nhận việc công nhân còn bị bóc lột."
+      ],
+      "topic": "Giai cấp công nhân",
+      "detail": "Mục Những biến đổi và khác biệt của giai cấp công nhân hiện đại lần lượt trình bày xu hướng trí tuệ hóa, xu hướng trung lưu hóa và vai trò lãnh đạo của giai cấp công nhân cùng vai trò cầm quyền của đội tiên phong ở một số quốc gia xã hội chủ nghĩa. Do đó A, B, C được nguồn xác nhận. D không phải xu hướng được liệt kê trong mục này.",
+      "trick": "Biến đổi hiện đại: trí tuệ hóa – trung lưu hóa – vai trò lãnh đạo ở một số nước XHCN.",
+      "caution": "Có nhiều đáp án đúng; bản ôn ghi rõ chọn A, B, C. Trung lưu hóa về mức sống không đồng nghĩa hết bị bóc lột hay nắm quyền quyết định sản xuất.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 67–68 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q50.png"
+    },
+    {
+      "id": 53,
+      "stem": "Cho đến nay, kinh tế gia đình Việt Nam đã có bước chuyển biến mang tính bước ngoặt nào? Chọn các đáp án đúng.",
+      "options": [
+        "Từ kinh tế tự cấp, tự túc thành kinh tế hàng hóa",
+        "Từ kinh tế hàng hóa thành kinh tế tự cấp, tự túc",
+        "Từ đơn vị kinh tế đáp ứng nhu cầu của thị trường quốc gia thành đơn vị kinh tế đáp ứng nhu cầu của thị trường toàn cầu",
+        "Từ kinh tế kế hoạch hóa tập trung sang kinh tế thị trường tự do"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [
+        "Đúng: bước chuyển thứ nhất ở trang 260.",
+        "Sai: đảo ngược chiều bước chuyển mà sách nêu.",
+        "Đúng: bước chuyển thứ hai được trình bày tiếp ở trang 260–261.",
+        "Không phải nội dung hai bước chuyển về kinh tế gia đình trong đoạn này."
+      ],
+      "topic": "Gia đình",
+      "detail": "Sách nêu hai bước chuyển: từ kinh tế tự cấp tự túc sang kinh tế hàng hóa; từ đơn vị sản xuất hàng hóa đáp ứng thị trường quốc gia thành tổ chức kinh tế đáp ứng thị trường toàn cầu. A và C đúng, B đảo chiều bước chuyển thứ nhất, D không phải hai bước chuyển của kinh tế gia đình được hỏi.",
+      "trick": "Hai bước: tự cấp → hàng hóa; thị trường quốc gia → toàn cầu.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 260–261 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q53.png"
+    },
+    {
+      "id": 55,
+      "stem": "Đâu là một trong những điều kiện ra đời chủ nghĩa xã hội khoa học?",
+      "options": [
+        "Điều kiện kinh tế - xã hội",
+        "Điều kiện văn hóa - xã hội",
+        "Điều kiện chính trị - xã hội",
+        "Điều kiện khoa học"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: là mục Điều kiện kinh tế - xã hội tại trang 12–14.",
+        "Không phải tên điều kiện được giáo trình liệt kê trong phần này.",
+        "Không phải tên điều kiện được tách thành mục ở phần này; phong trào công nhân có tính chính trị được trình bày trong điều kiện kinh tế - xã hội.",
+        "Khoa học tự nhiên có vai trò tiền đề; giáo trình gọi đó là tiền đề, không dùng tên mục Điều kiện khoa học như lựa chọn này."
+      ],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Trong phần Hoàn cảnh lịch sử ra đời chủ nghĩa xã hội khoa học, giáo trình chia thành Điều kiện kinh tế - xã hội và Tiền đề khoa học tự nhiên và tư tưởng lý luận. A là tên mục điều kiện được nêu trực tiếp; các phương án còn lại không khớp cách phân mục này.",
+      "trick": "Phân mục trong sách: điều kiện kinh tế - xã hội; tiền đề khoa học tự nhiên và tư tưởng lý luận.",
+      "caution": "Chọn A theo cách phân mục của giáo trình; không hiểu việc loại D là phủ nhận vai trò của các tiền đề khoa học tự nhiên.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 12–17 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q55.png"
+    },
+    {
+      "id": 58,
+      "stem": "Những yếu tố nào dưới đây khẳng định dân chủ xã hội chủ nghĩa là nền dân chủ cao hơn về chất so với các nền dân chủ trước đó? (Câu hỏi lựa chọn nhiều đáp án)",
+      "options": [
+        "Mọi quyền lực thuộc về nhân dân",
+        "Quyền lực thuộc về giai cấp công nhân",
+        "Được thực hiện bằng Nhà nước pháp quyền xã hội chủ nghĩa",
+        "Do Đảng Cộng sản lãnh đạo"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [
+        "Đúng: đúng chủ thể của mọi quyền lực trong định nghĩa ở trang 134.",
+        "Không chọn: cần phân biệt giai cấp công nhân lãnh đạo với mọi quyền lực thuộc về nhân dân; không giới hạn quyền lực chỉ ở công nhân.",
+        "Đúng: đúng hình thức thực hiện dân chủ trong định nghĩa ở trang 134.",
+        "Đúng: đúng yếu tố lãnh đạo được định nghĩa ở trang 134."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Đoạn khái quát tại trang 134 nêu dân chủ xã hội chủ nghĩa là nền dân chủ mà mọi quyền lực thuộc về nhân dân, được thực hiện bằng Nhà nước pháp quyền xã hội chủ nghĩa, đặt dưới sự lãnh đạo của Đảng Cộng sản. Do đó A, C, D khớp trực tiếp. Trang 136 phân biệt sự lãnh đạo của giai cấp công nhân thông qua Đảng với việc thực hiện quyền lực, lợi ích của toàn thể nhân dân, không chỉ riêng công nhân; B thu hẹp chủ thể quyền lực so với định nghĩa được hỏi.",
+      "trick": "Quyền lực của nhân dân – Nhà nước pháp quyền XHCN – Đảng Cộng sản lãnh đạo.",
+      "caution": "Chọn nhiều đáp án A, C, D; phân biệt chủ thể của quyền lực với giai cấp lãnh đạo thông qua Đảng.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 134, 136 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo05/q58.png"
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "images": 12,
+  "newlySubmittedImages": 11,
+  "previousDiscussionImage": 53,
+  "uniqueNewQuestions": 7,
+  "verifiedNewQuestions": 7,
+  "duplicateImages": 5,
+  "questions": [
+    {
+      "id": 2,
+      "stem": "Đặc điểm nào trong 06 đặc điểm dân tộc ở Việt Nam đã tạo điều kiện thuận lợi để các dân tộc tăng cường hiểu biết, mở rộng giao lưu, giúp đỡ nhau cùng phát triển?",
+      "options": [
+        "Có sự chênh lệch về dân số giữa các tộc người",
+        "Dân tộc thiểu số ở Việt Nam phân bố chủ yếu ở các địa bàn có vị trí chiến lược quan trọng",
+        "Dân tộc ở Việt Nam có trình độ phát triển không đều",
+        "Các dân tộc cư trú xen kẽ nhau"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân tộc",
+      "detail": "Phần các dân tộc cư trú xen kẽ nhau ở trang 206–207 nêu trực tiếp mặt thuận lợi: tăng cường hiểu biết, mở rộng giao lưu và giúp đỡ nhau cùng phát triển. D đúng. Sách đồng thời nêu khả năng phát sinh mâu thuẫn, nên không hiểu cư trú xen kẽ chỉ có mặt thuận lợi.",
+      "trick": "Giao lưu, hiểu biết, giúp đỡ giữa các dân tộc → cư trú xen kẽ.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 206–207 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q02.png",
+      "keywords": [
+        "tăng cường hiểu biết",
+        "mở rộng giao lưu",
+        "giúp đỡ nhau cùng phát triển"
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "“Kiện toàn tổ chức, đổi mới phương thức và nâng cao hiệu quả hoạt động của Quốc hội để đảm bảo đây là cơ quan...” Từ nào còn thiếu trong câu trên?",
+      "options": [
+        "Quyền lực của nhân dân",
+        "Quyền lực cao nhất của nhà nước",
+        "Quyền lực cao nhất của nhân dân",
+        "Quyền lực cao nhất của giai cấp"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Đúng chỗ trống của câu dẫn ở trang 162 là quyền lực cao nhất của nhân dân, nên chọn C. Ngay câu tiếp theo sách viết Quốc hội là cơ quan quyền lực nhà nước cao nhất ở nước ta. B gần với nhận định ở câu sau, nhưng không điền đúng câu được trích. Phải phân biệt câu điền nguyên văn với câu hỏi về địa vị của Quốc hội.",
+      "trick": "Kiện toàn tổ chức... để đảm bảo đây là cơ quan → quyền lực cao nhất của nhân dân.",
+      "caution": "Chọn C theo đúng câu trích trong giáo trình. Không từ đó suy ra B là một nhận định hoàn toàn sai về Quốc hội.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 162 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q10.png",
+      "keywords": [
+        "Kiện toàn tổ chức",
+        "Quốc hội",
+        "Từ nào còn thiếu"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_06",
+        "id": 22,
+        "reason": "Cùng nội dung và các lựa chọn đã có; giữ ảnh và đáp án để kiểm tra, không thêm câu luyện trùng."
+      }
+    },
+    {
+      "id": 11,
+      "stem": "Vấn đề: “Dân chủ là quyền lực thuộc về nhân dân, nhân dân là chủ nhân của nhà nước” được đề cập trên phương diện nào theo chủ nghĩa Mác - Lênin về dân chủ?",
+      "options": [
+        "Phương diện tổ chức và quản lý xã hội",
+        "Phương diện quyền lực",
+        "Phương diện chế độ xã hội và trong lĩnh vực chính trị",
+        "Phương diện bảo vệ xã hội"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Trang 126 mở nội dung thứ nhất bằng phương diện quyền lực, rồi nêu chính câu quyền lực thuộc về nhân dân, nhân dân là chủ nhân của nhà nước. B đúng. Phương diện chế độ xã hội gắn với hình thức nhà nước; phương diện tổ chức và quản lý gắn với nguyên tắc dân chủ, tập trung dân chủ ở trang 127.",
+      "trick": "Quyền lực thuộc về ai? → phương diện quyền lực.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 126–127 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q11.png",
+      "keywords": [
+        "quyền lực thuộc về nhân dân",
+        "nhân dân là chủ nhân",
+        "phương diện nào"
+      ]
+    },
+    {
+      "id": 22,
+      "stem": "Hôn nhân tiến bộ là hôn nhân xuất phát từ đâu?",
+      "options": [
+        "Từ tình yêu giữa nam và nữ",
+        "Từ quan hệ kinh tế - xã hội",
+        "Từ cơ sở pháp lý được xã hội công nhận",
+        "Từ các yếu tố đạo đức truyền thống"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Mở đầu mục Hôn nhân tự nguyện, trang 254 nêu hôn nhân tiến bộ xuất phát từ tình yêu giữa nam và nữ. A đúng. Không nhầm cơ sở tình cảm của việc kết hôn với điều kiện pháp lý để xã hội thừa nhận và bảo vệ hôn nhân.",
+      "trick": "Xuất phát từ tình yêu → hôn nhân tiến bộ.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 254 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q22.png",
+      "keywords": [
+        "Hôn nhân tiến bộ",
+        "xuất phát từ đâu"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_04",
+        "id": 54,
+        "reason": "Cùng nội dung và các lựa chọn đã có; giữ ảnh và đáp án để kiểm tra, không thêm câu luyện trùng."
+      }
+    },
+    {
+      "id": 23,
+      "stem": "Quyền tự do kết hôn trên cơ sở tình yêu và quyền tự do ly hôn là hai quyền thực hiện nguyên tắc nào của chế độ hôn nhân tiến bộ?",
+      "options": [
+        "Hôn nhân tự nguyện",
+        "Hôn nhân một vợ một chồng, vợ chồng bình đẳng",
+        "Hôn nhân được đảm bảo về mặt pháp lý",
+        "Hôn nhân được đảm bảo về mặt kinh tế"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Trong tiểu mục Hôn nhân tự nguyện, sách nêu quyền tự do lựa chọn người kết hôn trên cơ sở tình yêu và quyền tự do ly hôn khi tình yêu không còn. A đúng. Sách không khuyến khích ly hôn nông nổi hoặc vì vụ lợi; tự do ly hôn không đồng nghĩa xem nhẹ trách nhiệm với gia đình, con cái.",
+      "trick": "Tự do kết hôn + tự do ly hôn → tự nguyện.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 254–255 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q23.png",
+      "keywords": [
+        "tự do kết hôn",
+        "tự do ly hôn",
+        "nguyên tắc nào"
+      ]
+    },
+    {
+      "id": 24,
+      "stem": "Nếu thiếu đi cơ sở văn hóa, hoặc cơ sở văn hóa không đi liền với cơ sở kinh tế, chính trị thì việc xây dựng gia đình sẽ bị ảnh hưởng như thế nào?",
+      "options": [
+        "Việc xây dựng gia đình sẽ lệch lạc, không đạt hiệu quả",
+        "Hệ thống chính sách, pháp luật về xây dựng gia đình sẽ không thể hoàn thiện",
+        "Việc xây dựng gia đình không còn dựa trên nền tảng hệ tư tưởng chính trị",
+        "Việc xây dựng gia đình sẽ không hướng tới đời sống văn hóa, tinh thần"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Cuối mục Cơ sở văn hóa, trang 253 kết luận trực tiếp rằng thiếu cơ sở văn hóa hoặc không gắn với cơ sở kinh tế, chính trị sẽ làm việc xây dựng gia đình lệch lạc, không đạt hiệu quả cao. A khớp kết luận được trích.",
+      "trick": "Thiếu văn hóa hoặc tách rời kinh tế, chính trị → lệch lạc, kém hiệu quả.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 253 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q24.png",
+      "keywords": [
+        "thiếu đi cơ sở văn hóa",
+        "không đi liền",
+        "ảnh hưởng như thế nào"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_05",
+        "id": 42,
+        "reason": "Cùng nội dung và các lựa chọn đã có; giữ ảnh và đáp án để kiểm tra, không thêm câu luyện trùng."
+      }
+    },
+    {
+      "id": 32,
+      "stem": "Đâu không phải là một trong những chính sách đối với đội ngũ trí thức nhằm phát huy vai trò của tầng lớp này trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay?",
+      "options": [
+        "Tôn trọng và phát huy tự do tư tưởng trong hoạt động nghiên cứu, sáng tạo",
+        "Đảm bảo tư tưởng của giai cấp công nhân giữ vị trí chủ đạo trong hoạt động nghiên cứu, sáng tạo",
+        "Trọng dụng trí thức trên cơ sở đánh giá đúng phẩm chất, năng lực và kết quả cống hiến",
+        "Bảo vệ quyền sở hữu trí tuệ, đãi ngộ và tôn vinh xứng đáng những cống hiến của đội ngũ trí thức"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Đoạn Đối với đội ngũ trí thức ở trang 190 liệt kê trực tiếp các chính sách tương ứng A, C, D: tự do tư tưởng trong nghiên cứu, sáng tạo; trọng dụng theo phẩm chất, năng lực, cống hiến; bảo vệ sở hữu trí tuệ, đãi ngộ và tôn vinh. B không thuộc danh sách này nên là đáp án của câu hỏi phủ định. Không nhầm một luận điểm về hệ tư tưởng với chính sách cụ thể đối với trí thức được hỏi.",
+      "trick": "Có chữ không phải: A, C, D khớp đoạn chính sách trí thức; loại B.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 190 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q32.png",
+      "keywords": [
+        "không phải",
+        "chính sách đối với đội ngũ trí thức"
+      ]
+    },
+    {
+      "id": 36,
+      "stem": "Vấn đề sau đây do ai khẳng định: “Trong mọi thời đại lịch sử, sản xuất kinh tế và cơ cấu xã hội - cơ cấu này tất yếu phải do sản xuất kinh tế mà ra, - cả hai cái đó cấu thành cơ sở của lịch sử chính trị và lịch sử tư tưởng của thời đại ấy...” ?",
+      "options": [
+        "Chủ tịch Hồ Chí Minh",
+        "V.I. Lênin",
+        "C. Mác",
+        "Ph. Ăngghen"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải tác giả được giáo trình ghi trước câu dẫn này.",
+        "Không phải tác giả được giáo trình ghi trước câu dẫn này.",
+        "Dễ chọn do liên tưởng đến chủ nghĩa duy vật lịch sử, nhưng sách ghi rõ Ph. Ăngghen.",
+        "Đúng: trang 168 ghi rõ Ph. Ăngghen chỉ rõ trước đoạn trích."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Trang 168 ghi rõ Ph. Ăngghen chỉ rõ rồi dẫn câu về sản xuất kinh tế và cơ cấu xã hội; câu nối sang trang 169. Vì vậy D đúng. Đây là nhận định nền tảng về sự biến đổi cơ cấu xã hội gắn với cơ cấu kinh tế. Không chọn C. Mác chỉ vì câu có các từ sản xuất kinh tế và cơ cấu xã hội. Chủ đề của một câu không độc quyền thuộc về một nhà tư tưởng.",
+      "trick": "Ghim nguyên cặp sản xuất kinh tế + cơ cấu xã hội, cơ sở lịch sử chính trị và tư tưởng → Ph. Ăngghen.",
+      "caution": "Mẹo theo nhóm chủ đề chỉ gợi nhớ, không thay cho nhận diện câu cụ thể. Câu này là phản ví dụ cho quy tắc thấy kinh tế thì chọn Mác.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 168–169 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q36.png",
+      "keywords": [
+        "do ai khẳng định",
+        "sản xuất kinh tế và cơ cấu xã hội",
+        "lịch sử chính trị và lịch sử tư tưởng"
+      ],
+      "studyNote": {
+        "title": "Nhận diện tác giả: học cụm câu, dùng chủ đề để gợi nhớ",
+        "columns": [
+          "Tác giả",
+          "Nhóm vấn đề để gom khi ôn",
+          "Cụm neo và điểm tránh nhầm"
+        ],
+        "rows": [
+          [
+            "C. Mác",
+            "Kinh tế tư bản chủ nghĩa, giá trị thặng dư, quan hệ sản xuất, giải phóng giai cấp.",
+            "Chỉ là nhóm liên tưởng. Không thấy sản xuất kinh tế rồi tự chọn Mác: câu 36 của lô này là Ph. Ăngghen."
+          ],
+          [
+            "Ph. Ăngghen",
+            "Gia đình, hôn nhân, chế độ tư hữu; quan hệ giữa sản xuất và cơ cấu xã hội.",
+            "Sản xuất kinh tế và cơ cấu xã hội → câu 36, trang 168–169. Nghĩa vụ của những kẻ yêu nhau → câu 43, trang 254."
+          ],
+          [
+            "V.I. Lênin",
+            "Nhà nước, chính quyền Xôviết, dân chủ vô sản, liên minh công - nông và quá độ.",
+            "Dân chủ vô sản dân chủ hơn gấp triệu lần → trang 137. Chính quyền Xôviết xóa luật bất bình đẳng với phụ nữ → trang 252."
+          ],
+          [
+            "Hồ Chí Minh",
+            "Dân là chủ, dân làm chủ; xây dựng CNXH ở Việt Nam; gia đình và giải phóng phụ nữ.",
+            "Dân là chủ, dân làm chủ → trang 128. Hạt nhân của xã hội là gia đình → trang 242. Không giải phóng phụ nữ thì xây dựng CNXH chỉ một nửa → trang 245."
+          ]
+        ],
+        "caption": "Các nhóm chủ đề chỉ là cách gom kiến thức trong giáo trình, không phải thống kê tác giả hay nói gì hoặc quy tắc xác định tác giả. Các cụm neo là từ khóa gợi nhớ, không phải mọi ô đều trích nguyên văn. Nhiều tác giả cùng bàn về kinh tế, nhà nước, gia đình và phụ nữ. Chốt tác giả bằng đúng câu dẫn và bối cảnh. Chú thích C. Mác và Ph. Ăngghen: Toàn tập là tên bộ sách; không tự suy ra mọi câu trong bộ sách do hai người cùng nói."
+      }
+    },
+    {
+      "id": 39,
+      "stem": "Trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay, giai cấp, tầng lớp nào đang đóng góp tích cực vào việc thực hiện chiến lược phát triển kinh tế - xã hội, tạo việc làm cho người lao động?",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp nông dân",
+        "Tầng lớp trí thức",
+        "Tầng lớp doanh nhân"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Đoạn về đội ngũ doanh nhân tại trang 181 nêu trực tiếp đóng góp vào chiến lược phát triển kinh tế - xã hội, giải quyết việc làm và các vấn đề an sinh xã hội. D khớp chủ thể của đoạn mô tả. Không suy ra các giai cấp, tầng lớp khác không đóng góp vào việc làm.",
+      "trick": "Chiến lược phát triển kinh tế - xã hội, tạo việc làm → đội ngũ doanh nhân trong đoạn nguồn.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 181 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q39.png",
+      "keywords": [
+        "chiến lược phát triển kinh tế - xã hội",
+        "tạo việc làm"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_06",
+        "id": 35,
+        "reason": "Cùng nội dung và các lựa chọn đã có; giữ ảnh và đáp án để kiểm tra, không thêm câu luyện trùng."
+      }
+    },
+    {
+      "id": 43,
+      "stem": "“... nếu nghĩa vụ của vợ chồng là phải thương yêu nhau thì nghĩa vụ của những kẻ yêu nhau há chẳng phải là kết hôn với nhau và không được kết hôn với người khác hay sao?” Nhận định trên là của ai?",
+      "options": [
+        "Ph. Ăngghen",
+        "V.I. Lênin",
+        "Chủ tịch Hồ Chí Minh",
+        "C. Mác"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: giáo trình trang 254 nêu trực tiếp tên Ph. Ăngghen.",
+        "Không phải tác giả của câu này theo giáo trình; cùng bàn về phụ nữ không đủ để chọn Lênin.",
+        "Hồ Chí Minh có các câu khác về gia đình, phụ nữ; không phải đoạn này.",
+        "Chú thích bộ C. Mác và Ph. Ăngghen: Toàn tập không đồng nghĩa câu này riêng của Mác."
+      ],
+      "topic": "Gia đình",
+      "detail": "Trang 254, trong mục Hôn nhân tự nguyện, ghi rõ như Ph. Ăngghen nhấn mạnh trước đúng câu này; chọn A. Câu nói gắn tình yêu với hôn nhân tự nguyện. Đừng nhầm với Hồ Chí Minh chỉ vì cũng nói về gia đình: Hạt nhân của xã hội là gia đình ở trang 242 và xây dựng CNXH chỉ một nửa ở trang 245 là hai cụm khác. Chú thích C. Mác và Ph. Ăngghen: Toàn tập, tập 21, trang 125 là tên bộ sách dẫn nguồn, không phải khẳng định tác giả riêng là C. Mác.",
+      "trick": "Nghĩa vụ của vợ chồng / nghĩa vụ của những kẻ yêu nhau → Ph. Ăngghen.",
+      "caution": "Xác định tác giả bằng lời giới thiệu trong thân giáo trình; không đoán từ tên bộ Toàn tập ở chú thích.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 254 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q43.png",
+      "keywords": [
+        "nghĩa vụ của vợ chồng",
+        "nghĩa vụ của những kẻ yêu nhau",
+        "của ai"
+      ],
+      "studyNote": {
+        "title": "Nhận diện tác giả: học cụm câu, dùng chủ đề để gợi nhớ",
+        "columns": [
+          "Tác giả",
+          "Nhóm vấn đề để gom khi ôn",
+          "Cụm neo và điểm tránh nhầm"
+        ],
+        "rows": [
+          [
+            "C. Mác",
+            "Kinh tế tư bản chủ nghĩa, giá trị thặng dư, quan hệ sản xuất, giải phóng giai cấp.",
+            "Chỉ là nhóm liên tưởng. Không thấy sản xuất kinh tế rồi tự chọn Mác: câu 36 của lô này là Ph. Ăngghen."
+          ],
+          [
+            "Ph. Ăngghen",
+            "Gia đình, hôn nhân, chế độ tư hữu; quan hệ giữa sản xuất và cơ cấu xã hội.",
+            "Sản xuất kinh tế và cơ cấu xã hội → câu 36, trang 168–169. Nghĩa vụ của những kẻ yêu nhau → câu 43, trang 254."
+          ],
+          [
+            "V.I. Lênin",
+            "Nhà nước, chính quyền Xôviết, dân chủ vô sản, liên minh công - nông và quá độ.",
+            "Dân chủ vô sản dân chủ hơn gấp triệu lần → trang 137. Chính quyền Xôviết xóa luật bất bình đẳng với phụ nữ → trang 252."
+          ],
+          [
+            "Hồ Chí Minh",
+            "Dân là chủ, dân làm chủ; xây dựng CNXH ở Việt Nam; gia đình và giải phóng phụ nữ.",
+            "Dân là chủ, dân làm chủ → trang 128. Hạt nhân của xã hội là gia đình → trang 242. Không giải phóng phụ nữ thì xây dựng CNXH chỉ một nửa → trang 245."
+          ]
+        ],
+        "caption": "Các nhóm chủ đề chỉ là cách gom kiến thức trong giáo trình, không phải thống kê tác giả hay nói gì hoặc quy tắc xác định tác giả. Các cụm neo là từ khóa gợi nhớ, không phải mọi ô đều trích nguyên văn. Nhiều tác giả cùng bàn về kinh tế, nhà nước, gia đình và phụ nữ. Chốt tác giả bằng đúng câu dẫn và bối cảnh. Chú thích C. Mác và Ph. Ăngghen: Toàn tập là tên bộ sách; không tự suy ra mọi câu trong bộ sách do hai người cùng nói."
+      }
+    },
+    {
+      "id": 44,
+      "stem": "Cơ cấu xã hội - giai cấp của nước ta trong thời kì quá độ lên chủ nghĩa xã hội hiện nay bao gồm những giai cấp, tầng lớp cơ bản nào? (Chọn 3 đáp án)",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp nông dân",
+        "Đội ngũ trí thức và đội ngũ doanh nhân",
+        "Đội ngũ trí thức và đội ngũ đảng viên"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Phần vai trò các giai cấp, tầng lớp cơ bản liệt kê giai cấp công nhân, giai cấp nông dân, đội ngũ trí thức và đội ngũ doanh nhân. Các lựa chọn tương ứng là A, B, C; C gộp hai đội ngũ trong một phương án. Đội ngũ đảng viên không thay thế đội ngũ doanh nhân trong danh sách phân loại này.",
+      "trick": "Hiện nay: công nhân + nông dân + trí thức + doanh nhân → A, B, C.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 178–181 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q44.png",
+      "keywords": [
+        "thời kì quá độ",
+        "hiện nay",
+        "giai cấp, tầng lớp cơ bản",
+        "Chọn 3 đáp án"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_04",
+        "id": 51,
+        "reason": "Cùng nội dung và các lựa chọn đã có; giữ ảnh và đáp án để kiểm tra, không thêm câu luyện trùng."
+      }
+    },
+    {
+      "id": 53,
+      "stem": "Tôn giáo là một hiện tượng xã hội phản ánh sự bất lực và bế tắc của con người trước tự nhiên và xã hội, tuy nhiên, tôn giáo cũng chứa đựng một số giá trị phù hợp với đạo đức, đạo lí của con người thể hiện nội dung gì?",
+      "options": [
+        "Nguồn gốc của tôn giáo",
+        "Tính chất của tôn giáo",
+        "Chức năng của tôn giáo",
+        "Bản chất của tôn giáo"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Tôn giáo",
+      "detail": "Theo cách phân loại đang hỏi, D phù hợp: câu mô tả tôn giáo là hiện tượng xã hội phản ánh đời sống con người, tức đang nhận diện tôn giáo là gì và phản ánh cái gì. Mục bản chất ở trang 214–215 xác định tôn giáo là hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan, đồng thời là hiện tượng xã hội - văn hóa do con người sáng tạo. Nguồn gốc ở trang 216–218 giải thích các điều kiện làm tôn giáo ra đời; tính chất ở trang 218–219 gồm lịch sử, quần chúng, chính trị. Không chọn nguồn gốc chỉ vì bắt gặp chữ bất lực; xem toàn bộ ý của câu. Chứa đựng giá trị đạo đức cũng chưa phải một mô tả trực tiếp về tác dụng điều chỉnh hành vi.",
+      "trick": "Bản chất: là gì, phản ánh gì; nguồn gốc: vì sao có; tính chất: đặc điểm; chức năng: tác dụng.",
+      "caution": "Đề diễn đạt khái quát, không phải trích nguyên văn định nghĩa trang 214. Các từ bất lực, đạo đức có thể gặp ở nhiều mục; không dùng riêng một từ để suy đáp án.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 214–219 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo09/q53.png",
+      "keywords": [
+        "Tôn giáo là một hiện tượng xã hội",
+        "phản ánh",
+        "thể hiện nội dung gì"
+      ],
+      "studyNote": {
+        "title": "Phân biệt bốn nội dung về tôn giáo",
+        "columns": [
+          "Nội dung",
+          "Câu hỏi cần trả lời",
+          "Dấu hiệu"
+        ],
+        "rows": [
+          [
+            "Bản chất",
+            "Là gì? Phản ánh cái gì?",
+            "Hình thái ý thức xã hội; phản ánh hư ảo hiện thực khách quan."
+          ],
+          [
+            "Nguồn gốc",
+            "Vì sao ra đời, tồn tại?",
+            "Điều kiện tự nhiên, kinh tế - xã hội; nhận thức; tâm lý."
+          ],
+          [
+            "Tính chất",
+            "Có đặc điểm gì?",
+            "Lịch sử; quần chúng; chính trị."
+          ],
+          [
+            "Chức năng",
+            "Có tác dụng gì với con người, xã hội?",
+            "Ví dụ để phân biệt: an ủi tinh thần, định hướng hành vi, gắn kết cộng đồng."
+          ]
+        ],
+        "caption": "Ba mục bản chất, nguồn gốc và tính chất theo trang 214–219. Hàng chức năng là cách giải nghĩa tác dụng để phân biệt câu hỏi, không phải danh sách tiểu mục được giáo trình liệt kê ở đây. Không xem bất lực hoặc đạo đức là dấu hiệu chỉ thuộc duy nhất một mục."
+      }
+    }
+  ]
+}

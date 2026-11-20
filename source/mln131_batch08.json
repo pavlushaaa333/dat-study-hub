@@ -1,0 +1,382 @@
+{
+  "images": 13,
+  "uniqueNewQuestions": 10,
+  "verifiedNewQuestions": 9,
+  "userConfirmedNewQuestions": 1,
+  "unresolvedNewQuestions": 0,
+  "duplicateImages": 3,
+  "questions": [
+    {
+      "id": 59,
+      "stem": "Dưới góc độ chính trị, quy luật mang tính phổ biến và là động lực lớn cho sự phát triển của các xã hội có giai cấp là gì?",
+      "options": [
+        "Quy luật vừa hợp tác vừa đấu tranh giữa các giai cấp, tầng lớp trong xã hội",
+        "Quy luật liên minh các giai cấp, tầng lớp nhằm thực hiện mục tiêu chung",
+        "Quy luật đấu tranh giai cấp của các giai cấp có lợi ích đối lập nhau",
+        "Quy luật điều hòa lợi ích giữa các giai cấp, tầng lớp trong xã hội"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Đoạn cuối trang 173 nối sang đầu trang 174: đấu tranh giữa các giai cấp có lợi ích đối lập đặt ra nhu cầu mỗi giai cấp ở vị trí trung tâm phải liên minh với các giai cấp, tầng lớp có lợi ích phù hợp để tập hợp lực lượng thực hiện nhu cầu, lợi ích chung; sách gọi đó là quy luật mang tính phổ biến và động lực lớn cho sự phát triển của các xã hội có giai cấp. B khớp luận điểm trong mục Liên minh giai cấp, tầng lớp. C nêu tiền đề dẫn đến nhu cầu liên minh trong đoạn này, không phải nội dung mà vế kết luận đang gọi tên.",
+      "trick": "Đọc trọn đoạn trang 173–174: nhu cầu liên minh để thực hiện lợi ích chung → B.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 173–174 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q59.png",
+      "keywords": [
+        "Dưới góc độ chính trị",
+        "quy luật mang tính phổ biến",
+        "động lực lớn"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_02",
+        "id": 25,
+        "reason": "Trùng nội dung đã có; giữ ảnh và kết quả đối chiếu trong báo cáo, không thêm vào luyện lần nữa."
+      }
+    },
+    {
+      "id": 6,
+      "stem": "Ba phát kiến vĩ đại của C. Mác và Ph. Ăngghen là gì?",
+      "options": [
+        "Chủ nghĩa duy vật, Chủ nghĩa duy vật lịch sử, Học thuyết về giá trị thặng dư",
+        "Chủ nghĩa duy vật lịch sử, Chủ nghĩa duy tâm biện chứng, Học thuyết về giá trị thặng dư",
+        "Học thuyết giá trị thặng dư, Chủ nghĩa duy vật lịch sử, Phép biện chứng duy tâm",
+        "Chủ nghĩa duy vật lịch sử, Học thuyết về giá trị thặng dư, Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Nhập môn CNXH khoa học",
+      "detail": "Mục Ba phát kiến vĩ đại lần lượt liệt kê chủ nghĩa duy vật lịch sử, học thuyết về giá trị thặng dư và học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân. D chứa đủ ba nội dung. A thiếu phát kiến thứ ba; B và C đưa duy tâm vào danh sách nên không khớp.",
+      "trick": "Ba phát kiến: duy vật lịch sử → giá trị thặng dư → sứ mệnh lịch sử giai cấp công nhân.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 19–20 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q06.png",
+      "keywords": [
+        "Ba phát kiến vĩ đại",
+        "C. Mác và Ph. Ăngghen"
+      ]
+    },
+    {
+      "id": 10,
+      "stem": "Sau khi lật đổ được giai cấp thống trị, sứ mệnh lịch sử của giai cấp công nhân không thực hiện điều gì sau đây?",
+      "options": [
+        "Thiết lập nhà nước kiểu mới, mang bản chất giai cấp công nhân",
+        "Xây dựng nền dân chủ xã hội chủ nghĩa",
+        "Thực hiện quyền lực, quyền làm chủ của tuyệt đại đa số nhân dân lao động",
+        "Tiếp tục chiến đấu giải phóng giai cấp công nhân"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Là nhiệm vụ được nêu trực tiếp ở trang 58, nên không chọn trong câu hỏi phủ định.",
+        "Là nhiệm vụ được nêu trực tiếp ở trang 58, nên không chọn trong câu hỏi phủ định.",
+        "Là nhiệm vụ được nêu trực tiếp ở trang 58, nên không chọn trong câu hỏi phủ định.",
+        "Đáp án cần chọn cho câu hỏi phủ định, theo xác nhận của người dùng."
+      ],
+      "topic": "Giai cấp công nhân",
+      "detail": "Đáp án D - Tiếp tục chiến đấu giải phóng giai cấp công nhân, do người dùng xác nhận. Trong phạm vi câu hỏi về các nhiệm vụ ngay sau khi lật đổ giai cấp thống trị, trang 58 nêu rõ A: thiết lập nhà nước kiểu mới; B: xây dựng nền dân chủ xã hội chủ nghĩa; C: thực hiện quyền lực, quyền làm chủ của tuyệt đại đa số nhân dân lao động. D là phương án cần chọn cho câu hỏi phủ định này. Không mở rộng đáp án thành kết luận rằng giành chính quyền đã hoàn thành toàn bộ sự nghiệp giải phóng giai cấp; sứ mệnh tổng quát ở trang 57 còn bao gồm xóa bỏ áp bức, bóc lột.",
+      "trick": "Phân biệt giành chính quyền với hoàn thành toàn bộ sự nghiệp giải phóng.",
+      "caution": "Đáp án D do bạn xác nhận. Hiểu theo phạm vi các nhiệm vụ sau khi giành chính quyền trong câu hỏi; không đồng nhất giành chính quyền với hoàn thành toàn bộ sự nghiệp giải phóng.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 57–58 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q10.png",
+      "keywords": [
+        "Sau khi lật đổ",
+        "không thực hiện",
+        "sứ mệnh lịch sử"
+      ],
+      "answerSource": {
+        "type": "user_confirmed",
+        "label": "Người dùng xác nhận đáp án D",
+        "confirmedOn": "2026-11-18"
+      }
+    },
+    {
+      "id": 14,
+      "stem": "Về nội dung chính trị - xã hội, sứ mệnh lịch sử của giai cấp công nhân được thể hiện như thế nào?",
+      "options": [
+        "Giai cấp công nhân cùng với nhân dân lao động dưới sự lãnh đạo của Đảng Cộng sản phải tiến hành cách mạng chính trị lật đổ quyền thống trị của giai cấp tư sản",
+        "Giai cấp công nhân phải lãnh đạo được các giai cấp khác và lãnh đạo được Đảng Cộng sản để tiến hành cách mạng tư sản xóa bỏ chế độ thống trị của giai cấp tư sản",
+        "Giai cấp công nhân phải cùng với nhân dân lao động lãnh đạo Đảng Cộng sản tiến hành cách mạng chính trị lật đổ chính quyền của giai cấp phong kiến",
+        "Giai cấp công nhân phải xác lập được quyền thống trị nhân dân lao động và các giai cấp khác bằng cách thực hiện cách mạng lật đổ chính quyền của giai cấp tư sản"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Giai cấp công nhân",
+      "detail": "Trang 58 xác định giai cấp công nhân cùng nhân dân lao động, dưới sự lãnh đạo của Đảng Cộng sản, tiến hành cách mạng chính trị để lật đổ quyền thống trị, xóa bỏ bóc lột, áp bức, giành quyền lực về tay công nhân và nhân dân lao động. A khớp. B và C đảo quan hệ lãnh đạo với Đảng; B còn gọi sai là cách mạng tư sản. D biến quyền làm chủ của nhân dân thành thống trị nhân dân.",
+      "trick": "Công nhân + nhân dân lao động; dưới sự lãnh đạo của Đảng; cách mạng chính trị.",
+      "caution": "Ảnh gốc thiếu chữ trị sau cách mạng chính ở A; bản chữ bổ sung lỗi đánh máy theo thuật ngữ tại trang 58, giữ ảnh để đối chiếu.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 58 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q14.png",
+      "keywords": [
+        "nội dung chính trị - xã hội",
+        "sứ mệnh lịch sử"
+      ]
+    },
+    {
+      "id": 15,
+      "stem": "Nội dung sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay thực hiện trên những phương diện nào?",
+      "options": [
+        "Giai cấp công nhân thực hiện xây dựng con người mới xã hội chủ nghĩa",
+        "Giai cấp công nhân thực hiện xây dựng đạo đức và lối sống mới xã hội chủ nghĩa",
+        "Giai cấp công nhân thực hiện xây dựng và củng cố ý thức hệ tiên tiến của mình",
+        "Kinh tế; Chính trị - xã hội; Văn hóa, tư tưởng"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Giai cấp công nhân",
+      "detail": "Mục về sứ mệnh lịch sử của giai cấp công nhân Việt Nam hiện nay chia thành ba tiểu mục: kinh tế; chính trị - xã hội; văn hóa, tư tưởng. D bao quát đủ ba phương diện. A, B, C chỉ nêu những nội dung thuộc một phương diện nên không trả lời đủ câu hỏi.",
+      "trick": "Hỏi những phương diện → chọn đủ kinh tế; chính trị - xã hội; văn hóa, tư tưởng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 76–79 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q15.png",
+      "keywords": [
+        "giai cấp công nhân Việt Nam hiện nay",
+        "những phương diện"
+      ]
+    },
+    {
+      "id": 26,
+      "stem": "Điền vào chỗ trống: C. Mác và Ph. Ăngghen chỉ rõ: “Từ chỗ là những hình thức phát triển của các lực lượng sản xuất, những quan hệ sản xuất ấy trở thành những xiềng xích của các lực lượng sản xuất. Khi đó bắt đầu thời đại...”",
+      "options": [
+        "Một cuộc tổng tiến công",
+        "Một cuộc cải cách",
+        "Tất cả đều đúng",
+        "Một cuộc cách mạng"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Trang 91 dẫn câu kết là thời đại một cuộc cách mạng xã hội. D là phương án điền khớp. Các quan hệ sản xuất từ hình thức phát triển chuyển thành xiềng xích của lực lượng sản xuất là bối cảnh của cách mạng xã hội trong đoạn này.",
+      "trick": "Quan hệ sản xuất thành xiềng xích lực lượng sản xuất → cách mạng xã hội.",
+      "caution": "Ảnh diễn đạt những quan hệ sản xuất ấy, còn câu dẫn trong sách viết những quan hệ ấy; đáp án không thay đổi.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 91 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q26.png",
+      "keywords": [
+        "xiềng xích",
+        "Khi đó bắt đầu thời đại"
+      ]
+    },
+    {
+      "id": 32,
+      "stem": "Nội dung văn hóa - xã hội của liên minh giai cấp, tầng lớp là gì?",
+      "options": [
+        "Xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện",
+        "Xây dựng nền văn hóa và nhà nước của dân, do dân, vì dân",
+        "Xây dựng nền văn hóa và xây dựng Đảng trong sạch, vững mạnh",
+        "Xây dựng nền văn hóa và tăng cường bản chất giai cấp công nhân"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Phần nội dung văn hóa - xã hội xác định trọng tâm xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện. A đúng. Các lựa chọn khác ghép văn hóa với nhiệm vụ về nhà nước, Đảng hoặc bản chất giai cấp, không khớp nội dung trọng tâm được hỏi.",
+      "trick": "Văn hóa - xã hội của liên minh → văn hóa và con người phát triển toàn diện.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 186–187 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q32.png",
+      "keywords": [
+        "Nội dung văn hóa - xã hội",
+        "liên minh giai cấp, tầng lớp"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_03",
+        "id": 36,
+        "reason": "Trùng nội dung đã có; giữ ảnh và kết quả đối chiếu trong báo cáo, không thêm vào luyện lần nữa."
+      }
+    },
+    {
+      "id": 35,
+      "stem": "Đâu là một phương hướng trong việc phát huy vai trò của phụ nữ trong cơ cấu xã hội Việt Nam hiện nay?",
+      "options": [
+        "Có kế hoạch chăm sóc sức khỏe sinh sản, đảm bảo quyền tự do kế hoạch hóa gia đình của phụ nữ",
+        "Tăng tỷ lệ phụ nữ tham gia vào các cấp ủy và bộ máy quản lý các cấp",
+        "Có chính sách ưu đãi xã hội đối với nữ giới để đảm bảo quyền bình đẳng",
+        "Tăng cường đội ngũ doanh nhân nữ giới"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Đoạn Đối với phụ nữ ở trang 190 nêu trực tiếp việc tăng tỷ lệ phụ nữ tham gia vào cấp ủy và bộ máy quản lý các cấp, cùng các hướng nâng cao trình độ, đời sống, bình đẳng giới và hoàn thiện chính sách lao động nữ. B khớp trực tiếp phương hướng được giáo trình liệt kê. Không suy ra các biện pháp khác hoàn toàn vô ích chỉ vì không phải đáp án của đoạn này.",
+      "trick": "Phát huy vai trò phụ nữ trong cơ cấu xã hội → tăng tham gia cấp ủy, bộ máy quản lý.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 190–191 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q35.png",
+      "keywords": [
+        "phát huy vai trò của phụ nữ",
+        "cơ cấu xã hội Việt Nam hiện nay"
+      ]
+    },
+    {
+      "id": 38,
+      "stem": "Cơ cấu xã hội ở Việt Nam muốn biến đổi theo hướng tích cực phải dựa trên cơ sở gì?",
+      "options": [
+        "Tăng trưởng kinh tế bằng mọi giá",
+        "Sự giàu mạnh của các tổ chức, tập đoàn kinh tế lớn, cạnh tranh được với nước ngoài",
+        "Sự phát triển của thành phần kinh tế nhà nước và tập thể",
+        "Tăng trưởng, phát triển kinh tế nhanh và bền vững"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Phương hướng đầu tiên ở trang 188 đặt biến đổi cơ cấu xã hội tích cực trên cơ sở tăng trưởng và phát triển kinh tế nhanh, bền vững. D đúng. A bỏ qua bền vững; B và C thu hẹp cơ sở vào một số chủ thể hoặc thành phần kinh tế.",
+      "trick": "Cơ cấu xã hội biến đổi tích cực → kinh tế nhanh và bền vững.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 188 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q38.png",
+      "keywords": [
+        "biến đổi theo hướng tích cực",
+        "cơ sở"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_01",
+        "id": 37,
+        "reason": "Trùng nội dung đã có; giữ ảnh và kết quả đối chiếu trong báo cáo, không thêm vào luyện lần nữa."
+      }
+    },
+    {
+      "id": 41,
+      "stem": "Theo cấp độ quốc gia, đâu là tín ngưỡng truyền thống quan trọng của dân tộc Việt Nam?",
+      "options": [
+        "Tín ngưỡng thờ cúng tổ tiên",
+        "Tín ngưỡng thành hoàng",
+        "Tín ngưỡng thờ cúng vua Hùng",
+        "Tín ngưỡng thờ mẫu"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân tộc và tôn giáo",
+      "detail": "Trang 230 phân biệt tín ngưỡng ở gia đình, dòng họ và làng xã; trang 231 chuyển sang cấp độ quốc gia và việc hướng về cội nguồn chung nơi các Vua Hùng có công dựng nước. C khớp cấp độ được hỏi. Không chọn A chỉ vì thờ cúng tổ tiên là tín ngưỡng truyền thống quan trọng ở phạm vi gia đình.",
+      "trick": "Cấp độ quốc gia, cội nguồn dân tộc → thờ cúng Vua Hùng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 230–231 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q41.png",
+      "keywords": [
+        "cấp độ quốc gia",
+        "tín ngưỡng truyền thống"
+      ]
+    },
+    {
+      "id": 45,
+      "stem": "Trong quá trình giải quyết vấn đề tôn giáo, chúng ta cần phân biệt hai mặt nào của tôn giáo?",
+      "options": [
+        "Chính trị và pháp quyền",
+        "Chính trị và tư tưởng",
+        "Tư tưởng và văn hóa",
+        "Giáo dục và tư tưởng"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Tôn giáo",
+      "detail": "Một nguyên tắc được giáo trình nêu là phân biệt hai mặt chính trị và tư tưởng trong giải quyết vấn đề tôn giáo. B đúng. Mặt chính trị gắn với quan hệ lợi ích và việc lợi dụng tôn giáo; mặt tư tưởng liên quan đến khác biệt nhận thức, niềm tin. Không đồng nhất tín ngưỡng với hành vi chống đối chính trị.",
+      "trick": "Hai mặt cần phân biệt → chính trị và tư tưởng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 221–222 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q45.png",
+      "keywords": [
+        "giải quyết vấn đề tôn giáo",
+        "phân biệt hai mặt"
+      ]
+    },
+    {
+      "id": 55,
+      "stem": "Gia đình có bao nhiêu chức năng cơ bản?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Mục Chức năng cơ bản của gia đình có bốn tiểu mục: tái sản xuất ra con người; nuôi dưỡng, giáo dục; kinh tế và tổ chức tiêu dùng; thỏa mãn nhu cầu tâm sinh lý, duy trì tình cảm gia đình. B - 4 đúng. Sách còn nói tới chức năng văn hóa, chính trị sau đó, nhưng đó không phải các tiểu mục của bốn chức năng cơ bản đang hỏi.",
+      "trick": "Bốn chức năng cơ bản: tái sản xuất; nuôi dưỡng, giáo dục; kinh tế, tiêu dùng; tâm sinh lý, tình cảm.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 245–249 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q55.png",
+      "keywords": [
+        "bao nhiêu",
+        "chức năng cơ bản"
+      ]
+    },
+    {
+      "id": 58,
+      "stem": "Trên phương diện kinh tế, bản chất của nền dân chủ xã hội chủ nghĩa khác với nền dân chủ tư sản ở điểm nào? (Lựa chọn hai đáp án)",
+      "options": [
+        "Chế độ công hữu về tư liệu sản xuất",
+        "Chế độ công hữu về tư liệu sản xuất chủ yếu",
+        "Chế độ phân phối lợi ích theo kết quả lao động là chủ yếu",
+        "Chế độ phân phối lợi ích theo kết quả lao động là căn bản và duy nhất"
+      ],
+      "correct": [
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [
+        "Thiếu phạm vi tư liệu sản xuất chủ yếu; không phải lựa chọn chính xác nhất của đoạn so sánh.",
+        "Đúng: đúng phạm vi công hữu ở trang 138–139.",
+        "Đúng: đúng tính chất chủ yếu của phân phối theo kết quả lao động.",
+        "Sai ở chữ duy nhất; sách chỉ khẳng định chủ yếu."
+      ],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Trang 139 nêu trực tiếp hai nét: công hữu về tư liệu sản xuất chủ yếu; phân phối lợi ích theo kết quả lao động là chủ yếu. Chọn B và C. A thiếu phạm vi chủ yếu nên không diễn đạt chính xác nội dung so sánh của đoạn sách; D thêm duy nhất làm tuyệt đối hóa hình thức phân phối. Không suy từ chủ yếu thành duy nhất.",
+      "trick": "Hai chữ chủ yếu: tư liệu sản xuất chủ yếu + phân phối theo lao động là chủ yếu.",
+      "caution": "Ảnh ghi rõ chọn hai đáp án. Câu này khác câu 29 nhóm 02 đang chờ xác minh cách chọn; không tự chuyển trạng thái câu cũ.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 138–139 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo08/q58.png",
+      "keywords": [
+        "phương diện kinh tế",
+        "khác với nền dân chủ tư sản",
+        "Lựa chọn hai đáp án"
+      ]
+    }
+  ]
+}

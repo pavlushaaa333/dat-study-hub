@@ -1,0 +1,457 @@
+{
+  "images": 20,
+  "questions": [
+    {
+      "id": 60,
+      "stem": "Nhân tố nào sau đây có vai trò quyết định đến sự tồn tại và phát triển của xã hội?",
+      "options": [
+        "Con người",
+        "Gia đình",
+        "Tư duy",
+        "Khoa học kỹ thuật"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Trong phần Khái niệm gia đình, sách xác định gia đình là một cộng đồng người đặc biệt có vai trò quyết định đến sự tồn tại và phát triển của xã hội. Phần vị trí gia đình tiếp tục giải thích vai trò tái tạo con người của gia đình. Theo cách diễn đạt của giáo trình ở câu này, chọn Gia đình.",
+      "trick": "Cụm vai trò quyết định đến sự tồn tại và phát triển của xã hội nằm trong định nghĩa gia đình.",
+      "caution": "Câu hỏi tách khỏi ngữ cảnh dễ khiến nhầm sang Con người; đối chiếu đúng đoạn định nghĩa gia đình trong nguồn.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 239–242 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q60.png"
+    },
+    {
+      "id": 4,
+      "stem": "Khác biệt về sự ra đời của hình thái kinh tế - xã hội cộng sản chủ nghĩa với sự ra đời của các hình thái kinh tế - xã hội trước đây là gì?",
+      "options": [
+        "Phải được thực hiện thông qua cuộc cách mạng vô sản",
+        "Phải được thực hiện thông qua cuộc cách mạng tư sản",
+        "Phải được thực hiện thông qua một sự cải biến sâu sắc về trình độ phát triển của công nghiệp và người lao động",
+        "Phải có sự hội tụ đầy đủ các yếu tố về kinh tế và chính trị"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Sách nêu hình thái kinh tế - xã hội cộng sản chủ nghĩa không tự nhiên ra đời mà được hình thành thông qua cách mạng vô sản dưới sự lãnh đạo của Đảng Cộng sản. Đây là điểm khác biệt mà câu hỏi yêu cầu.",
+      "trick": "Sự ra đời của hình thái cộng sản chủ nghĩa → cách mạng vô sản.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 92 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q04.png"
+    },
+    {
+      "id": 11,
+      "stem": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+      "options": [
+        "Là những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội cộng sản chủ nghĩa",
+        "Là những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội xã hội chủ nghĩa",
+        "Là những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội tư bản chủ nghĩa",
+        "Là những quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển của hình thái kinh tế - xã hội tư bản chủ nghĩa và cộng sản chủ nghĩa"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Đoạn khái quát đối tượng nghiên cứu nêu các quy luật, tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa, mà giai đoạn thấp là chủ nghĩa xã hội. Trong bốn phương án, A phù hợp.",
+      "trick": "Đối tượng → hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 42 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q11.png"
+    },
+    {
+      "id": 13,
+      "stem": "Sau khi chế độ xã hội chủ nghĩa Liên Xô và Đông Âu sụp đổ, chủ nghĩa xã hội khoa học được bổ sung và phát triển như thế nào?",
+      "options": [
+        "Được giới tri thức thế giới nghiên cứu như một học thuyết đã lỗi thời",
+        "Được các nước xã hội chủ nghĩa bổ sung và phát triển trong tình hình mới, phù hợp với bối cảnh từng nước",
+        "Các nước tư bản chủ nghĩa nghiên cứu chủ nghĩa xã hội khoa học như một học thuyết nhằm khắc phục các khuyết tật của thời đại mới",
+        "Được dung hòa cùng với các học thuyết tư sản khác"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Nhập môn chủ nghĩa xã hội khoa học",
+      "detail": "Sau sự sụp đổ ở Liên Xô và Đông Âu, ở những nước tiếp tục định hướng xã hội chủ nghĩa, các Đảng Cộng sản từng bước bổ sung, phát triển lý luận Mác - Lênin và chủ nghĩa xã hội khoa học phù hợp bối cảnh mới.",
+      "trick": "Tiếp tục bổ sung và phát triển phù hợp bối cảnh mới.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 34 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q13.png"
+    },
+    {
+      "id": 14,
+      "stem": "Có bao nhiêu phương hướng được đề ra tại Văn kiện Đại hội đại biểu toàn quốc lần thứ XI trong thời kỳ quá độ lên chủ nghĩa xã hội?",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Sách xác định Đại hội XI đề ra tám phương hướng, rồi lần lượt liệt kê từ Một là đến Tám là.",
+      "trick": "Đại hội XI: 8 đặc trưng, 8 phương hướng; đọc đúng nội dung đang hỏi.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 116–117 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q14.png"
+    },
+    {
+      "id": 17,
+      "stem": "Trong gia đình, quan hệ thứ ba tham gia ngay từ đầu vào quá trình phát triển lịch sử, đó là quan hệ nào?",
+      "options": [
+        "Quan hệ giữa chồng và vợ, quan hệ giữa cha mẹ và con cái",
+        "Quan hệ giữa ông bà với con cái, quan hệ giữa vợ và chồng",
+        "Quan hệ giữa tổ tiên với ông bà, cha mẹ",
+        "Quan hệ giữa con cái và cha mẹ"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Đoạn trích của C. Mác và Ph. Ăngghen giải thích quan hệ thứ ba là quan hệ giữa chồng và vợ, cha mẹ và con cái, tức gia đình. A diễn đạt đầy đủ cả hai mối quan hệ cơ bản.",
+      "trick": "Quan hệ thứ ba → vợ chồng + cha mẹ, con cái.",
+      "caution": "Cùng khai thác đoạn giáo trình với câu 39 của nhóm ảnh đầu, nhưng phương án hỏi về hai quan hệ cấu thành thay vì tên gọi Gia đình.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 240 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q17.png"
+    },
+    {
+      "id": 18,
+      "stem": "Đại hội XIII của Đảng Cộng sản Việt Nam đã đề ra mục tiêu gì vào năm 2045 trên con đường xây dựng chủ nghĩa xã hội?",
+      "options": [
+        "Trở thành nước phát triển, có kinh tế tri thức, thu nhập trung bình cao",
+        "Trở thành con rồng Châu Á",
+        "Trở thành nước phát triển, thu nhập cao",
+        "Trở thành nước đang phát triển, có thu nhập trung bình cao"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Mục tiêu đến năm 2045 là trở thành nước phát triển, thu nhập cao. Đây là ảnh lặp nội dung câu 27 ở nhóm ảnh đầu.",
+      "trick": "2045 → nước phát triển, thu nhập cao.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 118 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q18.png",
+      "duplicateOf": {
+        "examId": "mln131_01",
+        "id": 27
+      }
+    },
+    {
+      "id": 24,
+      "stem": "Trong thời kì quá độ lên chủ nghĩa xã hội ở Việt Nam hiện nay, giai cấp công nhân có vị trí, vai trò như thế nào trong khối liên minh giai cấp?",
+      "options": [
+        "Là lực lượng nòng cốt, tiên phong trong liên minh giai cấp",
+        "Là lực lượng hỗ trợ duy trì liên minh",
+        "Là lực lượng duy trì khối đại đoàn kết của giai cấp công nhân, nông dân với tư sản và trí thức",
+        "Là lực lượng củng cố khối đại đoàn kết dân tộc"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Sách xác định giai cấp công nhân giữ vị trí tiên phong và là lực lượng nòng cốt trong liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức.",
+      "trick": "Vị trí của công nhân trong liên minh → nòng cốt, tiên phong.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 178–179 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q24.png"
+    },
+    {
+      "id": 29,
+      "stem": "Ở Việt Nam hiện nay, tổ chức nào đại diện cho quyền lợi, lợi ích hợp pháp và là nơi để giai cấp công nhân chủ động, tích cực tham gia xây dựng, chỉnh đốn Đảng, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ nhân dân?",
+      "options": [
+        "Hệ thống tổ chức Công đoàn",
+        "Quốc hội",
+        "Mặt trận Tổ quốc Việt Nam",
+        "Hội đồng nhân dân các cấp"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Giai cấp công nhân",
+      "detail": "Sách nêu công nhân thông qua hệ thống tổ chức công đoàn chủ động tham gia xây dựng, chỉnh đốn Đảng, bảo vệ Đảng và chế độ để bảo vệ nhân dân. Phần giải pháp cũng nêu vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp, chính đáng của công nhân của công đoàn.",
+      "trick": "Đại diện, bảo vệ quyền lợi công nhân → Công đoàn.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 79, 82 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q29.png"
+    },
+    {
+      "id": 30,
+      "stem": "Nhiệm vụ cấp bách, lâu dài của quá trình xây dựng Nhà nước pháp quyền xã hội chủ nghĩa ở nước ta là gì?",
+      "options": [
+        "Phòng chống tham nhũng, lãng phí và thực hành tiết kiệm",
+        "Miễn nhiệm những người không hoàn thành nhiệm vụ",
+        "Nâng cao chất lượng đội ngũ cán bộ, công chức",
+        "Có chính sách đãi ngộ, động viên, khuyến khích cán bộ, công chức"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân chủ và nhà nước",
+      "detail": "Mục Bốn là về phòng, chống tham nhũng, lãng phí, thực hành tiết kiệm xác định rõ đây là nhiệm vụ cấp bách, lâu dài. Các lựa chọn còn lại thuộc nội dung xây dựng đội ngũ cán bộ, công chức.",
+      "trick": "Cấp bách, lâu dài → chống tham nhũng, lãng phí; thực hành tiết kiệm.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 163 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q30.png"
+    },
+    {
+      "id": 32,
+      "stem": "Trong một quốc gia đa tộc người thì vấn đề gì cần giải quyết được coi là có ý nghĩa cơ bản nhất để thực hiện quyền bình đẳng giữa các dân tộc?",
+      "options": [
+        "Ban hành hệ thống hiến pháp và pháp luật về quyền bình đẳng giữa các dân tộc",
+        "Nâng cao trình độ dân trí, văn hóa cho đồng bào",
+        "Chống tư tưởng phân biệt chủng tộc, kì thị và chia rẽ dân tộc",
+        "Xóa bỏ dần sự chênh lệch về mọi mặt giữa các dân tộc do lịch sử để lại"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân tộc",
+      "detail": "Bình đẳng dân tộc cần được thực hiện trong thực tế; chính sách hướng đến khắc phục chênh lệch phát triển giữa các dân tộc. Ảnh này trùng câu 56 của nhóm ảnh thứ hai.",
+      "trick": "Bình đẳng thực tế → từng bước xóa chênh lệch do lịch sử để lại.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 204; 212–213 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q32.png",
+      "duplicateOf": {
+        "examId": "mln131_02",
+        "id": 56
+      }
+    },
+    {
+      "id": 33,
+      "stem": "Cơ sở để xác định thời đại và phân chia thời đại là gì?",
+      "options": [
+        "Hình thái kinh tế - xã hội và vị trí của một giai cấp đứng ở vị trí trung tâm",
+        "Vị trí của một giai cấp đứng ở vị trí trung tâm",
+        "Sự phát triển của lực lượng sản xuất và một quan hệ sản xuất phù hợp",
+        "Cách mạng xã hội chủ nghĩa do giai cấp công nhân lãnh đạo thành công"
+      ],
+      "correct": [],
+      "multiple": false,
+      "gradable": false,
+      "why": [],
+      "topic": "Cần đối chiếu nguồn",
+      "detail": "Chưa tìm được đoạn trong giáo trình được cung cấp trình bày trực tiếp tiêu chí xác định và phân chia thời đại theo đúng bốn phương án này. Vì giới hạn chỉ dùng nguồn đã gửi, giữ câu trong phần cần đối chiếu, không chốt đáp án và không tính điểm.",
+      "trick": "Cần đối chiếu thêm phần tài liệu giảng dạy về thời đại trước khi chốt.",
+      "caution": "Chưa đủ căn cứ trực tiếp trong giáo trình hiện có để xác minh khóa đáp án.",
+      "reference": "Chưa tìm được đoạn đối chiếu trực tiếp trong giáo trình đã gửi",
+      "image": "assets/mln131/bo03/q33.png"
+    },
+    {
+      "id": 35,
+      "stem": "Cơ sở văn hóa để xây dựng gia đình trong chủ nghĩa xã hội là gì?",
+      "options": [
+        "Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa",
+        "Thiết lập chế độ công hữu về tư liệu sản xuất",
+        "Giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân",
+        "Xây dựng nền văn hóa tiên tiến mang đậm bản sắc dân tộc"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Trong mục Cơ sở văn hóa, sách nêu những giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân từng bước giữ vai trò chi phối nền tảng văn hóa, tinh thần xã hội. A là cơ sở chính trị; B là cơ sở kinh tế.",
+      "trick": "Hỏi cơ sở văn hóa gia đình → giá trị văn hóa trên nền tảng hệ tư tưởng giai cấp công nhân.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 253 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q35.png"
+    },
+    {
+      "id": 36,
+      "stem": "Nội dung văn hóa - xã hội của liên minh giai cấp, tầng lớp là gì?",
+      "options": [
+        "Xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện",
+        "Xây dựng nền văn hóa và nhà nước của dân, do dân, vì dân",
+        "Xây dựng nền văn hóa và xây dựng Đảng trong sạch, vững mạnh",
+        "Xây dựng nền văn hóa và tăng cường bản chất giai cấp công nhân"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Phần Nội dung văn hóa - xã hội của liên minh nêu xây dựng nền văn hóa và con người Việt Nam phát triển toàn diện, hướng đến chân - thiện - mỹ, cùng với phát triển nguồn nhân lực và các chính sách xã hội.",
+      "trick": "Văn hóa - xã hội của liên minh → văn hóa và con người phát triển toàn diện.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 186–187 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q36.png"
+    },
+    {
+      "id": 38,
+      "stem": "Các dân tộc đều có quyền và nghĩa vụ ngang nhau trên tất cả các lĩnh vực đời sống xã hội, không phân biệt dân tộc lớn hay nhỏ, trình độ phát triển cao hay thấp là quyền gì trong Cương lĩnh dân tộc của V.I.Lênin?",
+      "options": [
+        "Quyền dân tộc tự quyết",
+        "Quyền hoàn toàn bình đẳng giữa các dân tộc",
+        "Quyền sống, quyền tự do và quyền hạnh phúc của các dân tộc",
+        "Quyền công bằng xã hội"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân tộc",
+      "detail": "Đây là nội dung của nguyên tắc Các dân tộc hoàn toàn bình đẳng. Quyền tự quyết là tự định đoạt vận mệnh, lựa chọn chế độ và con đường phát triển, khác với quyền và nghĩa vụ ngang nhau.",
+      "trick": "Quyền và nghĩa vụ ngang nhau, không phân biệt → bình đẳng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 204 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q38.png"
+    },
+    {
+      "id": 40,
+      "stem": "Trong thời đại hiện nay, ở các nước tư bản chủ nghĩa, mục tiêu đấu tranh trực tiếp để thực hiện sứ mệnh lịch sử của giai cấp công nhân về chính trị - xã hội là gì?",
+      "options": [
+        "Chống bất công, bất bình đẳng xã hội",
+        "Xóa bỏ chế độ tư hữu về tư liệu sản xuất",
+        "Giành chính quyền về tay giai cấp công nhân",
+        "Xác lập quyền lãnh đạo xã hội của Đảng Cộng sản"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Giai cấp công nhân",
+      "detail": "Sách phân biệt mục tiêu trực tiếp là chống bất công và bất bình đẳng xã hội; mục tiêu lâu dài là giành chính quyền về tay giai cấp công nhân và nhân dân lao động.",
+      "trick": "Tư bản hiện nay: trực tiếp chống bất công; lâu dài giành chính quyền.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 70 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q40.png"
+    },
+    {
+      "id": 43,
+      "stem": "Mức độ tác động của gia đình đối với xã hội phụ thuộc vào những yếu tố nào?",
+      "options": [
+        "Vào bản chất của từng chế độ xã hội",
+        "Vào đường lối, chủ trương của giai cấp cầm quyền",
+        "Vào bản thân mô hình, kết cấu, đặc điểm của mỗi hình thức gia đình trong lịch sử",
+        "Vào ý chí, nguyện vọng của các thành viên trong gia đình"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Sách nêu liên tiếp ba yếu tố: bản chất chế độ xã hội; đường lối, chính sách của giai cấp cầm quyền; mô hình, kết cấu và đặc điểm của mỗi hình thức gia đình trong lịch sử. Do đó A, B, C đều được nguồn xác nhận.",
+      "trick": "Ba yếu tố: chế độ xã hội – chính sách cầm quyền – mô hình gia đình.",
+      "caution": "Ảnh có nhiều phương án đúng. Bản ôn ghi rõ Chọn nhiều đáp án và chấm theo A, B, C; không ép chọn một phương án.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 242 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q43.png"
+    },
+    {
+      "id": 44,
+      "stem": "Liên Xô, Đông Âu và các nước xã hội chủ nghĩa hiện nay, đã và đang quá độ lên chủ nghĩa xã hội bằng hình thức nào?",
+      "options": [
+        "Quá độ gián tiếp",
+        "Quá độ trực tiếp",
+        "Quá độ bộ phận",
+        "Quá độ toàn diện"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Sách nêu Liên Xô, Đông Âu trước đây và Trung Quốc, Việt Nam cùng một số nước xã hội chủ nghĩa hiện nay đều trải qua thời kỳ quá độ gián tiếp với những trình độ phát triển khác nhau. Trực tiếp áp dụng về lý luận cho nước đã trải qua chủ nghĩa tư bản phát triển.",
+      "trick": "Liên Xô, Đông Âu, Việt Nam theo giáo trình → quá độ gián tiếp.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 105 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q44.png"
+    },
+    {
+      "id": 45,
+      "stem": "Cơ cấu xã hội - giai cấp của nước ta trước thời kì đổi mới bao gồm các giai cấp, tầng lớp nào?",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp nông dân",
+        "Đội ngũ trí thức",
+        "Đội ngũ đảng viên"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Sách mô tả cơ cấu xã hội - giai cấp đơn giản của thời kỳ trước đổi mới gồm giai cấp công nhân, giai cấp nông dân và đội ngũ trí thức. Đảng viên là tư cách tham gia tổ chức chính trị, không phải một giai cấp hay tầng lớp riêng trong danh sách này.",
+      "trick": "Trước đổi mới: công nhân – nông dân – trí thức.",
+      "caution": "Ảnh có ba phương án đúng. Bản ôn ghi rõ Chọn nhiều đáp án và chấm theo A, B, C.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 178 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q45.png"
+    },
+    {
+      "id": 46,
+      "stem": "Cơ cấu kinh tế trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam tuy vận động theo cơ chế thị trường, song vẫn có sự quản lý của chủ thể nào?",
+      "options": [
+        "Giai cấp công nhân",
+        "Đảng Cộng sản Việt Nam",
+        "Nhà nước pháp quyền xã hội chủ nghĩa",
+        "Tầng lớp thống trị trong xã hội"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Sách nêu cơ cấu kinh tế trong thời kỳ quá độ tuy vận động theo cơ chế thị trường nhưng có sự quản lý của Nhà nước pháp quyền xã hội chủ nghĩa nhằm xây dựng thành công chủ nghĩa xã hội.",
+      "trick": "Thị trường có quản lý → Nhà nước pháp quyền XHCN.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 169 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo03/q46.png"
+    }
+  ],
+  "uniqueNewQuestions": 18,
+  "duplicateImages": 2
+}

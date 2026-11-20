@@ -1,0 +1,117 @@
+{
+  "images": 4,
+  "uniqueNewQuestions": 4,
+  "duplicateImages": 0,
+  "questions": [
+    {
+      "id": 50,
+      "stem": "Vấn đề chiến lược, cơ bản, lâu dài và cấp bách trong việc giải quyết mối quan hệ dân tộc và tôn giáo ở Việt Nam hiện nay là gì?",
+      "options": [
+        "Đảm bảo sự lãnh đạo của Đảng Cộng sản Việt Nam, tuân thủ nguyên tắc, lập trường chính trị của giai cấp công nhân",
+        "Đảm bảo các tôn giáo, dân tộc chuyển biến tích cực",
+        "Đảm bảo hài hòa lợi ích, giảm thiểu tới mức tối đa mâu thuẫn lợi ích, nhất là mâu thuẫn lợi ích kinh tế",
+        "Củng cố mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo"
+      ],
+      "correct": [
+        3
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Nêu nguyên tắc lãnh đạo, không phải nội dung được giáo trình gắn trực tiếp với cụm từ trong câu hỏi.",
+        "Diễn đạt chung, không chỉ ra nội dung đoàn kết được hỏi.",
+        "Nêu vấn đề lợi ích, không phải nội dung của luận điểm được hỏi ở trang 233.",
+        "Đúng: khớp luận điểm về quan hệ tốt đẹp và khối đại đoàn kết dân tộc, tôn giáo."
+      ],
+      "topic": "Dân tộc và tôn giáo",
+      "detail": "Trong mục định hướng giải quyết mối quan hệ dân tộc và tôn giáo, sách xác định tăng cường mối quan hệ tốt đẹp giữa dân tộc và tôn giáo, củng cố khối đại đoàn kết toàn dân tộc và đoàn kết tôn giáo là vấn đề chiến lược, cơ bản, lâu dài và cấp bách của cách mạng Việt Nam. D khớp trực tiếp với nội dung này.",
+      "trick": "Chiến lược, cơ bản, lâu dài và cấp bách → đoàn kết dân tộc và đoàn kết tôn giáo.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 233 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo04/q50.png"
+    },
+    {
+      "id": 54,
+      "stem": "Theo quan điểm của chủ nghĩa Mác - Lênin, hôn nhân tiến bộ là hôn nhân xuất phát từ đâu?",
+      "options": [
+        "Từ tình yêu giữa nam và nữ",
+        "Từ quan hệ kinh tế - xã hội",
+        "Từ cơ sở pháp lý được xã hội công nhận",
+        "Từ các yếu tố đạo đức truyền thống"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: là cơ sở được sách nêu trực tiếp khi giải thích hôn nhân tiến bộ.",
+        "Điều kiện kinh tế - xã hội tác động đến gia đình, nhưng không phải đáp án cho cơ sở xuất phát của hôn nhân tiến bộ trong đoạn này.",
+        "Cơ sở pháp lý liên quan đến việc công nhận hôn nhân; câu hỏi yêu cầu cơ sở xuất phát là tình yêu.",
+        "Không phải cơ sở được định nghĩa trong giáo trình; chuẩn mực truyền thống cũng cần được xem xét theo nội dung tiến bộ."
+      ],
+      "topic": "Gia đình",
+      "detail": "Phần Chế độ hôn nhân tiến bộ, mục Hôn nhân tự nguyện, xác định hôn nhân tiến bộ xuất phát từ tình yêu giữa nam và nữ. Hôn nhân xuất phát từ tình yêu tất yếu dẫn đến hôn nhân tự nguyện. Đây là cơ sở được câu hỏi yêu cầu.",
+      "trick": "Hôn nhân tiến bộ → tình yêu → tự nguyện.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 254 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo04/q54.png"
+    },
+    {
+      "id": 51,
+      "stem": "Cơ cấu xã hội - giai cấp của nước ta trong thời kì quá độ lên chủ nghĩa xã hội hiện nay bao gồm những giai cấp, tầng lớp cơ bản nào?",
+      "options": [
+        "Giai cấp công nhân",
+        "Giai cấp nông dân",
+        "Đội ngũ trí thức và đội ngũ doanh nhân",
+        "Đội ngũ trí thức và đội ngũ đảng viên"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "multiple": true,
+      "gradable": true,
+      "why": [
+        "Đúng: giai cấp công nhân được trình bày tại trang 178–179.",
+        "Đúng: giai cấp nông dân được trình bày tại trang 179–180.",
+        "Đúng: đội ngũ trí thức và đội ngũ doanh nhân được trình bày tại trang 180–181.",
+        "Sai: tuy có trí thức, phương án ghép thêm đội ngũ đảng viên, không thuộc danh sách các giai cấp, tầng lớp cơ bản được sách nêu."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Sách lần lượt trình bày giai cấp công nhân, giai cấp nông dân, đội ngũ trí thức và đội ngũ doanh nhân trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay. Vì vậy cần chọn A, B và C để đủ bốn nhóm. D ghép trí thức với đảng viên; đảng viên không được liệt kê như một giai cấp, tầng lớp riêng trong danh sách này.",
+      "trick": "Hiện nay: công nhân – nông dân – trí thức – doanh nhân; phân biệt với cơ cấu đơn giản trước đổi mới.",
+      "caution": "Có ba phương án đúng theo giáo trình. Bản ôn ghi rõ Chọn nhiều đáp án và chấm theo A, B, C; không ép chọn một phương án.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 178–181 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo04/q51.png"
+    },
+    {
+      "id": 56,
+      "stem": "Nội dung cốt lõi của công tác tôn giáo ở nước ta hiện nay là gì?",
+      "options": [
+        "Công tác giáo dục chủ nghĩa duy vật biện chứng",
+        "Công tác cảm hóa giáo dân",
+        "Công tác vận động quần chúng",
+        "Công tác điều hòa mâu thuẫn giữa các tôn giáo"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Không phải nội dung cốt lõi được giáo trình xác định cho công tác tôn giáo.",
+        "Không phải cách xác định nội dung cốt lõi trong giáo trình.",
+        "Đúng: sách xác định trực tiếp công tác vận động quần chúng là nội dung cốt lõi.",
+        "Không khớp nội dung cốt lõi được hỏi; công tác tôn giáo có phạm vi rộng hơn điều hòa mâu thuẫn."
+      ],
+      "topic": "Tôn giáo",
+      "detail": "Trong phần chính sách của Đảng, Nhà nước Việt Nam đối với tín ngưỡng, tôn giáo, giáo trình nêu rõ nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng. Công tác này gắn với động viên đồng bào, bảo đảm lợi ích và nâng cao đời sống mọi mặt.",
+      "trick": "Cốt lõi của công tác tôn giáo → vận động quần chúng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 227 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo04/q56.png"
+    }
+  ]
+}

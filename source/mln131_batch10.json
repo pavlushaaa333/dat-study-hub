@@ -1,0 +1,233 @@
+{
+  "images": 7,
+  "uniqueNewQuestions": 3,
+  "verifiedNewQuestions": 3,
+  "duplicateImages": 4,
+  "questions": [
+    {
+      "id": 4,
+      "stem": "Nội dung cốt lõi của công tác tôn giáo ở nước ta hiện nay là gì?",
+      "options": [
+        "Công tác giáo dục chủ nghĩa duy vật biện chứng",
+        "Công tác cảm hóa giáo dân",
+        "Công tác vận động quần chúng",
+        "Công tác điều hòa mâu thuẫn giữa các tôn giáo"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Tôn giáo",
+      "detail": "Phần chính sách đối với tín ngưỡng, tôn giáo nêu trực tiếp nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng. C đúng. Các biện pháp hoặc cách diễn đạt ở các lựa chọn khác không thay thế nội dung cốt lõi mà sách xác định.",
+      "trick": "Cốt lõi công tác tôn giáo → vận động quần chúng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 227 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q04.png",
+      "keywords": [
+        "Nội dung cốt lõi",
+        "công tác tôn giáo"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_04",
+        "id": 56,
+        "reason": "Trùng câu và các phương án đã có; giữ ảnh cùng đáp án trong báo cáo, không cộng thêm vào luyện."
+      }
+    },
+    {
+      "id": 7,
+      "stem": "Các dân tộc đều có quyền và nghĩa vụ ngang nhau trên tất cả các lĩnh vực đời sống xã hội, không phân biệt dân tộc lớn hay nhỏ, trình độ phát triển cao hay thấp là quyền gì trong Cương lĩnh dân tộc của V.I. Lênin?",
+      "options": [
+        "Quyền dân tộc tự quyết",
+        "Quyền hoàn toàn bình đẳng giữa các dân tộc",
+        "Quyền sống, quyền tự do và quyền hạnh phúc của các dân tộc",
+        "Quyền công bằng xã hội"
+      ],
+      "correct": [
+        1
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Dân tộc",
+      "detail": "Quyền và nghĩa vụ ngang nhau, không phân biệt dân tộc lớn nhỏ hay trình độ phát triển là nội dung các dân tộc hoàn toàn bình đẳng ở trang 204. B đúng. Tự quyết là quyền tự định đoạt vận mệnh và lựa chọn con đường phát triển, không phải cách gọi của nội dung đang hỏi.",
+      "trick": "Quyền, nghĩa vụ ngang nhau → hoàn toàn bình đẳng.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 204 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q07.png",
+      "keywords": [
+        "quyền và nghĩa vụ ngang nhau",
+        "không phân biệt",
+        "Cương lĩnh dân tộc"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_03",
+        "id": 38,
+        "reason": "Trùng câu và các phương án đã có; giữ ảnh cùng đáp án trong báo cáo, không cộng thêm vào luyện."
+      }
+    },
+    {
+      "id": 23,
+      "stem": "Cơ sở văn hóa để xây dựng gia đình trong chủ nghĩa xã hội là gì?",
+      "options": [
+        "Thiết lập chính quyền nhà nước của giai cấp công nhân và nhân dân lao động, nhà nước xã hội chủ nghĩa",
+        "Thiết lập chế độ công hữu về tư liệu sản xuất",
+        "Giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân",
+        "Xây dựng nền văn hóa tiên tiến mang đậm bản sắc dân tộc"
+      ],
+      "correct": [
+        2
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Gia đình",
+      "detail": "Mục Cơ sở văn hóa ở trang 253 nêu các giá trị văn hóa được xây dựng trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân từng bước giữ vai trò chi phối nền tảng văn hóa, tinh thần của xã hội. C khớp nội dung trực tiếp. A là cơ sở chính trị - xã hội; B là cơ sở kinh tế - xã hội; D không nêu đầy đủ nền tảng được đoạn sách hỏi.",
+      "trick": "Cơ sở văn hóa → giá trị văn hóa trên nền tảng hệ tư tưởng chính trị của giai cấp công nhân.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 253 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q23.png",
+      "keywords": [
+        "Cơ sở văn hóa",
+        "xây dựng gia đình"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_03",
+        "id": 35,
+        "reason": "Trùng câu và các phương án đã có; giữ ảnh cùng đáp án trong báo cáo, không cộng thêm vào luyện."
+      }
+    },
+    {
+      "id": 31,
+      "stem": "Phát kiến nào của C. Mác và Ph. Ăngghen đã khắc phục triệt để được những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng Pháp?",
+      "options": [
+        "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân",
+        "Chủ nghĩa duy vật lịch sử",
+        "Học thuyết về giá trị thặng dư",
+        "Chủ nghĩa duy vật biện chứng"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: phát kiến thứ ba được sách gắn trực tiếp với việc khắc phục triệt để các hạn chế.",
+        "Là phát kiến thứ nhất, tạo cơ sở triết học; không phải phát kiến thứ ba đang hỏi.",
+        "Là phát kiến thứ hai, tạo cơ sở kinh tế; không phải phát kiến được câu kết chỉ rõ.",
+        "Không thuộc ba tên phát kiến được liệt kê trong đoạn này."
+      ],
+      "topic": "Nhập môn CNXH khoa học",
+      "detail": "Trang 20 nêu rõ với phát kiến vĩ đại thứ ba - học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân - những hạn chế có tính lịch sử của chủ nghĩa xã hội không tưởng - phê phán được khắc phục một cách triệt để. A đúng. Chủ nghĩa duy vật lịch sử là phát kiến thứ nhất; học thuyết giá trị thặng dư là thứ hai. Không thay câu hỏi về phát kiến thứ ba bằng một trong hai cơ sở lý luận trước đó.",
+      "trick": "Khắc phục triệt để hạn chế CNXH không tưởng → phát kiến thứ ba → sứ mệnh lịch sử giai cấp công nhân.",
+      "caution": "Ảnh ghi không tưởng Pháp; đoạn nguồn ở trang 20 nói về chủ nghĩa xã hội không tưởng - phê phán nói chung. Đáp án được xác định từ luận điểm về phát kiến thứ ba, không phải từ việc đoán quốc tịch các nhà tư tưởng.",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 19–20 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q31.png",
+      "keywords": [
+        "Phát kiến nào",
+        "khắc phục triệt để",
+        "hạn chế có tính lịch sử"
+      ]
+    },
+    {
+      "id": 33,
+      "stem": "Làm thế nào để có thể tạo sự đồng thuận và phát huy tinh thần đoàn kết thống nhất giữa các lực lượng trong khối liên minh và toàn xã hội Việt Nam hiện nay?",
+      "options": [
+        "Xây dựng chủ trương, chính sách phù hợp, đúng đắn, giải quyết hài hòa lợi ích của từng đối tượng liên minh cụ thể và đảm bảo lợi ích chung",
+        "Mọi vấn đề, mọi pháp luật khi đưa ra đều phải thông qua tất cả công dân để được ban hành, đảm bảo tính đồng thuận tuyệt đối",
+        "Có chính sách gắn kết, ràng buộc lợi ích kinh tế giữa các giai cấp, tầng lớp để họ thống nhất lợi ích kinh tế với nhau, từ đó đồng thuận và đoàn kết trong mọi vấn đề",
+        "Tất cả đáp án đều đúng"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: phù hợp các phương hướng về chính sách, giải quyết khác biệt và hài hòa lợi ích ở trang 191–192.",
+        "Tự thêm điều kiện tuyệt đối tất cả công dân phải thông qua mọi vấn đề, mọi pháp luật.",
+        "Gắn kết kinh tế không tự động làm các nhóm thống nhất trong mọi vấn đề; sách vẫn yêu cầu giải quyết khác biệt.",
+        "Không chọn vì B và C đều chứa các khẳng định tuyệt đối không được nguồn ủng hộ."
+      ],
+      "topic": "Liên minh và cơ cấu xã hội",
+      "detail": "Trang 191 yêu cầu xây dựng chủ trương, chính sách đúng đắn, phù hợp với từng đối tượng; giải quyết mâu thuẫn, khác biệt và phát huy thống nhất trong các giai cấp, tầng lớp. Trang 192 nhấn mạnh bảo đảm hài hòa lợi ích. A phù hợp. B đòi mọi vấn đề, mọi pháp luật phải được tất cả công dân thông qua và đồng thuận tuyệt đối, điều sách không đặt ra. C tuyệt đối hóa lợi ích kinh tế thành sự đồng thuận trong mọi vấn đề. Vì B, C không đúng nên không chọn D.",
+      "trick": "Đồng thuận → chính sách phù hợp + hài hòa lợi ích riêng, chung; không đồng nghĩa tuyệt đối không còn khác biệt.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 191–192 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q33.png",
+      "keywords": [
+        "tạo sự đồng thuận",
+        "đoàn kết thống nhất",
+        "khối liên minh"
+      ]
+    },
+    {
+      "id": 55,
+      "stem": "Mâu thuẫn cơ bản và chủ yếu trong xã hội tư bản chủ nghĩa, bắt buộc nó phải được thay thế bằng hình thái kinh tế - xã hội khác phù hợp hơn là gì?",
+      "options": [
+        "Mâu thuẫn giữa tính chất xã hội hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất",
+        "Mâu thuẫn giữa tính chất tư nhân hóa của lực lượng sản xuất với chế độ chiếm hữu tư nhân về tư liệu sản xuất",
+        "Mâu thuẫn giữa tính chất chuyên môn hóa của lực lượng sản xuất với chế độ chiếm hữu tập thể tư bản chủ nghĩa về tư liệu sản xuất",
+        "Mâu thuẫn giữa tính chất xã hội hóa về lực lượng sản xuất với chế độ chiếm hữu công cộng về tư liệu sản xuất"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [
+        "Đúng: đủ hai vế xã hội hóa lực lượng sản xuất và chiếm hữu tư nhân tư bản chủ nghĩa.",
+        "Sai ở tính chất tư nhân hóa của lực lượng sản xuất.",
+        "Không phải hai vế của mâu thuẫn mà giáo trình xác định.",
+        "Sai ở chiếm hữu công cộng; mâu thuẫn đang xét gắn với chiếm hữu tư nhân tư bản chủ nghĩa."
+      ],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Trang 90–91 phân tích lực lượng sản xuất ngày càng xã hội hóa, trong khi quan hệ sản xuất tư bản chủ nghĩa dựa trên chế độ chiếm hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất. Trang 91 gọi đây là mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản. A đúng. B đổi xã hội hóa thành tư nhân hóa; C đổi cả nội dung lực lượng sản xuất và chế độ chiếm hữu; D đổi tư nhân tư bản chủ nghĩa thành công cộng. Câu gần nội dung câu 48 nhóm 02 nhưng các phương án gây nhiễu khác, nên giữ thành một biến thể luyện tập.",
+      "trick": "Hai vế đối lập: lực lượng sản xuất xã hội hóa ↔ chiếm hữu tư nhân tư bản chủ nghĩa.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 90–91 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q55.png",
+      "keywords": [
+        "Mâu thuẫn cơ bản và chủ yếu",
+        "xã hội tư bản chủ nghĩa"
+      ],
+      "relatedTo": {
+        "examId": "mln131_02",
+        "id": 48,
+        "reason": "Cùng nội dung kiến thức nhưng các phương án gây nhiễu khác nhau."
+      }
+    },
+    {
+      "id": 58,
+      "stem": "Khác biệt về sự ra đời của hình thái kinh tế - xã hội cộng sản chủ nghĩa với sự ra đời của các hình thái kinh tế - xã hội trước đây là gì?",
+      "options": [
+        "Phải được thực hiện thông qua cuộc cách mạng vô sản",
+        "Phải được thực hiện thông qua cuộc cách mạng tư sản",
+        "Phải được thực hiện thông qua một sự cải biến sâu sắc về trình độ phát triển của công nghiệp và người lao động",
+        "Phải có sự hội tụ đầy đủ các yếu tố về kinh tế và chính trị"
+      ],
+      "correct": [
+        0
+      ],
+      "multiple": false,
+      "gradable": true,
+      "why": [],
+      "topic": "Chủ nghĩa xã hội và thời kỳ quá độ",
+      "detail": "Trang 92 nêu hình thái kinh tế - xã hội cộng sản chủ nghĩa không tự nhiên ra đời, mà được hình thành thông qua cách mạng vô sản dưới sự lãnh đạo của Đảng Cộng sản. A khớp điểm khác biệt được hỏi. Các điều kiện kinh tế, chính trị có liên quan nhưng không thay thế phương thức hình thành mà đoạn sách nhấn mạnh.",
+      "trick": "Khác biệt về sự ra đời hình thái cộng sản chủ nghĩa → cách mạng vô sản.",
+      "caution": "",
+      "reference": "Giáo trình CNXH khoa học (2021), trang 92 (số in trên sách) · Bản trong Source",
+      "image": "assets/mln131/bo10/q58.png",
+      "keywords": [
+        "Khác biệt về sự ra đời",
+        "hình thái kinh tế - xã hội cộng sản chủ nghĩa"
+      ],
+      "duplicateOf": {
+        "examId": "mln131_03",
+        "id": 4,
+        "reason": "Trùng câu và các phương án đã có; giữ ảnh cùng đáp án trong báo cáo, không cộng thêm vào luyện."
+      }
+    }
+  ]
+}
