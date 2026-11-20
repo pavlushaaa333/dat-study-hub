@@ -1,0 +1,22 @@
+# Local secrets and authentication sessions
+.env
+.env.*
+!.env.example
+auth.json
+*credentials*.json
+*session*.json
+
+# Hosting and development output
+.vercel/
+node_modules/
+dist/
+build/
+*.log
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
